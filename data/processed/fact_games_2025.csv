@@ -1,0 +1,1124 @@
+game_id,game_date,season,season_type,home_team,away_team,home_team_id,away_team_id,home_score,away_score,venue,game_status,winner,home_win,home_point_diff
+401704627,2024-10-22,2025,2,Boston Celtics,New York Knicks,2,18,132,109,,STATUS_FINAL,Boston Celtics,1,23
+401704628,2024-10-22,2025,2,Los Angeles Lakers,Minnesota Timberwolves,13,16,110,103,,STATUS_FINAL,Los Angeles Lakers,1,7
+401704629,2024-10-23,2025,2,Detroit Pistons,Indiana Pacers,8,11,109,115,,STATUS_FINAL,Indiana Pacers,0,-6
+401704630,2024-10-23,2025,2,Atlanta Hawks,Brooklyn Nets,1,17,120,116,,STATUS_FINAL,Atlanta Hawks,1,4
+401704631,2024-10-23,2025,2,Miami Heat,Orlando Magic,14,19,97,116,,STATUS_FINAL,Orlando Magic,0,-19
+401704632,2024-10-23,2025,2,Philadelphia 76ers,Milwaukee Bucks,20,15,109,124,,STATUS_FINAL,Milwaukee Bucks,0,-15
+401704633,2024-10-23,2025,2,Toronto Raptors,Cleveland Cavaliers,28,5,106,136,,STATUS_FINAL,Cleveland Cavaliers,0,-30
+401704634,2024-10-23,2025,2,Houston Rockets,Charlotte Hornets,10,30,105,110,,STATUS_FINAL,Charlotte Hornets,0,-5
+401704635,2024-10-23,2025,2,New Orleans Pelicans,Chicago Bulls,3,4,123,111,,STATUS_FINAL,New Orleans Pelicans,1,12
+401704636,2024-10-23,2025,2,Utah Jazz,Memphis Grizzlies,26,29,124,126,,STATUS_FINAL,Memphis Grizzlies,0,-2
+401704637,2024-10-23,2025,2,LA Clippers,Phoenix Suns,12,21,113,116,,STATUS_FINAL,Phoenix Suns,0,-3
+401704638,2024-10-23,2025,2,Portland Trail Blazers,Golden State Warriors,22,9,104,140,,STATUS_FINAL,Golden State Warriors,0,-36
+401704639,2024-10-24,2025,2,Washington Wizards,Boston Celtics,27,2,102,122,,STATUS_FINAL,Boston Celtics,0,-20
+401704640,2024-10-24,2025,2,Dallas Mavericks,San Antonio Spurs,6,24,120,109,,STATUS_FINAL,Dallas Mavericks,1,11
+401704641,2024-10-24,2025,2,Denver Nuggets,Oklahoma City Thunder,7,25,87,102,,STATUS_FINAL,Oklahoma City Thunder,0,-15
+401704642,2024-10-24,2025,2,Sacramento Kings,Minnesota Timberwolves,23,16,115,117,,STATUS_FINAL,Minnesota Timberwolves,0,-2
+401704643,2024-10-25,2025,2,Orlando Magic,Brooklyn Nets,19,17,116,101,,STATUS_FINAL,Orlando Magic,1,15
+401704644,2024-10-25,2025,2,Toronto Raptors,Philadelphia 76ers,28,20,115,107,,STATUS_FINAL,Toronto Raptors,1,8
+401704645,2024-10-25,2025,2,Atlanta Hawks,Charlotte Hornets,1,30,125,120,,STATUS_FINAL,Atlanta Hawks,1,5
+401704646,2024-10-25,2025,2,Cleveland Cavaliers,Detroit Pistons,5,8,113,101,,STATUS_FINAL,Cleveland Cavaliers,1,12
+401704647,2024-10-25,2025,2,New York Knicks,Indiana Pacers,18,11,123,98,,STATUS_FINAL,New York Knicks,1,25
+401704648,2024-10-25,2025,2,Houston Rockets,Memphis Grizzlies,10,29,128,108,,STATUS_FINAL,Houston Rockets,1,20
+401704649,2024-10-25,2025,2,Milwaukee Bucks,Chicago Bulls,15,4,122,133,,STATUS_FINAL,Chicago Bulls,0,-11
+401704650,2024-10-25,2025,2,Utah Jazz,Golden State Warriors,26,9,86,127,,STATUS_FINAL,Golden State Warriors,0,-41
+401704651,2024-10-25,2025,2,Los Angeles Lakers,Phoenix Suns,13,21,123,116,,STATUS_FINAL,Los Angeles Lakers,1,7
+401704652,2024-10-25,2025,2,Portland Trail Blazers,New Orleans Pelicans,22,3,103,105,,STATUS_FINAL,New Orleans Pelicans,0,-2
+401704653,2024-10-26,2025,2,Denver Nuggets,LA Clippers,7,12,104,109,,STATUS_FINAL,LA Clippers,0,-5
+401704654,2024-10-26,2025,2,Charlotte Hornets,Miami Heat,30,14,106,114,,STATUS_FINAL,Miami Heat,0,-8
+401704655,2024-10-26,2025,2,Detroit Pistons,Boston Celtics,8,2,118,124,,STATUS_FINAL,Boston Celtics,0,-6
+401704656,2024-10-26,2025,2,Washington Wizards,Cleveland Cavaliers,27,5,116,135,,STATUS_FINAL,Cleveland Cavaliers,0,-19
+401704657,2024-10-26,2025,2,Chicago Bulls,Oklahoma City Thunder,4,25,95,114,,STATUS_FINAL,Oklahoma City Thunder,0,-19
+401704658,2024-10-26,2025,2,Memphis Grizzlies,Orlando Magic,29,19,124,111,,STATUS_FINAL,Memphis Grizzlies,1,13
+401704659,2024-10-26,2025,2,Minnesota Timberwolves,Toronto Raptors,16,28,112,101,,STATUS_FINAL,Minnesota Timberwolves,1,11
+401704660,2024-10-26,2025,2,San Antonio Spurs,Houston Rockets,24,10,109,106,,STATUS_FINAL,San Antonio Spurs,1,3
+401704661,2024-10-26,2025,2,Phoenix Suns,Dallas Mavericks,21,6,114,102,,STATUS_FINAL,Phoenix Suns,1,12
+401704662,2024-10-26,2025,2,Los Angeles Lakers,Sacramento Kings,13,23,131,127,,STATUS_FINAL,Los Angeles Lakers,1,4
+401704663,2024-10-27,2025,2,Indiana Pacers,Philadelphia 76ers,11,20,114,118,,STATUS_FINAL,Philadelphia 76ers,0,-4
+401704664,2024-10-27,2025,2,Brooklyn Nets,Milwaukee Bucks,17,15,115,102,,STATUS_FINAL,Brooklyn Nets,1,13
+401704665,2024-10-27,2025,2,Portland Trail Blazers,New Orleans Pelicans,22,3,125,103,,STATUS_FINAL,Portland Trail Blazers,1,22
+401704666,2024-10-27,2025,2,Oklahoma City Thunder,Atlanta Hawks,25,1,128,104,,STATUS_FINAL,Oklahoma City Thunder,1,24
+401704667,2024-10-27,2025,2,Golden State Warriors,LA Clippers,9,12,104,112,,STATUS_FINAL,LA Clippers,0,-8
+401704668,2024-10-28,2025,2,Orlando Magic,Indiana Pacers,19,11,119,115,,STATUS_FINAL,Orlando Magic,1,4
+401704669,2024-10-28,2025,2,Atlanta Hawks,Washington Wizards,1,27,119,121,,STATUS_FINAL,Washington Wizards,0,-2
+401704670,2024-10-28,2025,2,Boston Celtics,Milwaukee Bucks,2,15,119,108,,STATUS_FINAL,Boston Celtics,1,11
+401704671,2024-10-28,2025,2,Miami Heat,Detroit Pistons,14,8,106,98,,STATUS_FINAL,Miami Heat,1,8
+401704672,2024-10-28,2025,2,New York Knicks,Cleveland Cavaliers,18,5,104,110,,STATUS_FINAL,Cleveland Cavaliers,0,-6
+401704673,2024-10-28,2025,2,Toronto Raptors,Denver Nuggets,28,7,125,127,,STATUS_FINAL,Denver Nuggets,0,-2
+401704674,2024-10-28,2025,2,Memphis Grizzlies,Chicago Bulls,29,4,123,126,,STATUS_FINAL,Chicago Bulls,0,-3
+401704675,2024-10-28,2025,2,San Antonio Spurs,Houston Rockets,24,10,101,106,,STATUS_FINAL,Houston Rockets,0,-5
+401704676,2024-10-28,2025,2,Dallas Mavericks,Utah Jazz,6,26,110,102,,STATUS_FINAL,Dallas Mavericks,1,8
+401704677,2024-10-28,2025,2,Phoenix Suns,Los Angeles Lakers,21,13,109,105,,STATUS_FINAL,Phoenix Suns,1,4
+401704678,2024-10-28,2025,2,Sacramento Kings,Portland Trail Blazers,23,22,111,98,,STATUS_FINAL,Sacramento Kings,1,13
+401704679,2024-10-29,2025,2,Brooklyn Nets,Denver Nuggets,17,7,139,144,,STATUS_FINAL,Denver Nuggets,0,-5
+401704680,2024-10-29,2025,2,Minnesota Timberwolves,Dallas Mavericks,16,6,114,120,,STATUS_FINAL,Dallas Mavericks,0,-6
+401704681,2024-10-29,2025,2,Utah Jazz,Sacramento Kings,26,23,96,113,,STATUS_FINAL,Sacramento Kings,0,-17
+401704682,2024-10-29,2025,2,Golden State Warriors,New Orleans Pelicans,9,3,124,106,,STATUS_FINAL,Golden State Warriors,1,18
+401704683,2024-10-30,2025,2,Charlotte Hornets,Toronto Raptors,30,28,138,133,,STATUS_FINAL,Charlotte Hornets,1,5
+401704684,2024-10-30,2025,2,Cleveland Cavaliers,Los Angeles Lakers,5,13,134,110,,STATUS_FINAL,Cleveland Cavaliers,1,24
+401704685,2024-10-30,2025,2,Indiana Pacers,Boston Celtics,11,2,135,132,,STATUS_FINAL,Indiana Pacers,1,3
+401704686,2024-10-30,2025,2,Philadelphia 76ers,Detroit Pistons,20,8,95,105,,STATUS_FINAL,Detroit Pistons,0,-10
+401704687,2024-10-30,2025,2,Washington Wizards,Atlanta Hawks,27,1,133,120,,STATUS_FINAL,Washington Wizards,1,13
+401704688,2024-10-30,2025,2,Miami Heat,New York Knicks,14,18,107,116,,STATUS_FINAL,New York Knicks,0,-9
+401704689,2024-10-30,2025,2,Chicago Bulls,Orlando Magic,4,19,102,99,,STATUS_FINAL,Chicago Bulls,1,3
+401704690,2024-10-30,2025,2,Memphis Grizzlies,Brooklyn Nets,29,17,106,119,,STATUS_FINAL,Brooklyn Nets,0,-13
+401704691,2024-10-30,2025,2,Oklahoma City Thunder,San Antonio Spurs,25,24,105,93,,STATUS_FINAL,Oklahoma City Thunder,1,12
+401704692,2024-10-30,2025,2,Golden State Warriors,New Orleans Pelicans,9,3,104,89,,STATUS_FINAL,Golden State Warriors,1,15
+401704693,2024-10-30,2025,2,LA Clippers,Portland Trail Blazers,12,22,105,106,,STATUS_FINAL,Portland Trail Blazers,0,-1
+401704694,2024-10-31,2025,2,Memphis Grizzlies,Milwaukee Bucks,29,15,122,99,,STATUS_FINAL,Memphis Grizzlies,1,23
+401704695,2024-10-31,2025,2,Dallas Mavericks,Houston Rockets,6,10,102,108,,STATUS_FINAL,Houston Rockets,0,-6
+401704696,2024-10-31,2025,2,Utah Jazz,San Antonio Spurs,26,24,88,106,,STATUS_FINAL,San Antonio Spurs,0,-18
+401704697,2024-10-31,2025,2,LA Clippers,Phoenix Suns,12,21,119,125,,STATUS_FINAL,Phoenix Suns,0,-6
+401704698,2024-11-01,2025,2,Charlotte Hornets,Boston Celtics,30,2,109,124,,STATUS_FINAL,Boston Celtics,0,-15
+401704699,2024-11-01,2025,2,Cleveland Cavaliers,Orlando Magic,5,19,120,109,,STATUS_FINAL,Cleveland Cavaliers,1,11
+401704700,2024-11-01,2025,2,Detroit Pistons,New York Knicks,8,18,98,128,,STATUS_FINAL,New York Knicks,0,-30
+401704701,2024-11-01,2025,2,Atlanta Hawks,Sacramento Kings,1,23,115,123,,STATUS_FINAL,Sacramento Kings,0,-8
+401704702,2024-11-01,2025,2,Brooklyn Nets,Chicago Bulls,17,4,120,112,,STATUS_FINAL,Brooklyn Nets,1,8
+401704703,2024-11-01,2025,2,Toronto Raptors,Los Angeles Lakers,28,13,125,131,,STATUS_FINAL,Los Angeles Lakers,0,-6
+401704704,2024-11-01,2025,2,New Orleans Pelicans,Indiana Pacers,3,11,125,118,,STATUS_FINAL,New Orleans Pelicans,1,7
+401704705,2024-11-01,2025,2,Minnesota Timberwolves,Denver Nuggets,16,7,119,116,,STATUS_FINAL,Minnesota Timberwolves,1,3
+401704706,2024-11-01,2025,2,Portland Trail Blazers,Oklahoma City Thunder,22,25,114,137,,STATUS_FINAL,Oklahoma City Thunder,0,-23
+401704707,2024-11-02,2025,2,Charlotte Hornets,Boston Celtics,30,2,103,113,,STATUS_FINAL,Boston Celtics,0,-10
+401704708,2024-11-02,2025,2,Philadelphia 76ers,Memphis Grizzlies,20,29,107,124,,STATUS_FINAL,Memphis Grizzlies,0,-17
+401704709,2024-11-02,2025,2,Toronto Raptors,Sacramento Kings,28,23,131,128,,STATUS_FINAL,Toronto Raptors,1,3
+401704710,2024-11-02,2025,2,Houston Rockets,Golden State Warriors,10,9,121,127,,STATUS_FINAL,Golden State Warriors,0,-6
+401704711,2024-11-02,2025,2,Milwaukee Bucks,Cleveland Cavaliers,15,5,113,114,,STATUS_FINAL,Cleveland Cavaliers,0,-1
+401704712,2024-11-02,2025,2,San Antonio Spurs,Minnesota Timberwolves,24,16,113,103,,STATUS_FINAL,San Antonio Spurs,1,10
+401704713,2024-11-02,2025,2,Washington Wizards,Miami Heat,27,14,98,118,,STATUS_FINAL,Miami Heat,0,-20
+401704714,2024-11-02,2025,2,Denver Nuggets,Utah Jazz,7,26,129,103,,STATUS_FINAL,Denver Nuggets,1,26
+401704715,2024-11-02,2025,2,Phoenix Suns,Portland Trail Blazers,21,22,103,97,,STATUS_FINAL,Phoenix Suns,1,6
+401704716,2024-11-02,2025,2,LA Clippers,Oklahoma City Thunder,12,25,92,105,,STATUS_FINAL,Oklahoma City Thunder,0,-13
+401704717,2024-11-03,2025,2,Brooklyn Nets,Detroit Pistons,17,8,92,106,,STATUS_FINAL,Detroit Pistons,0,-14
+401704718,2024-11-03,2025,2,New Orleans Pelicans,Atlanta Hawks,3,1,111,126,,STATUS_FINAL,Atlanta Hawks,0,-15
+401704719,2024-11-03,2025,2,Dallas Mavericks,Orlando Magic,6,19,108,85,,STATUS_FINAL,Dallas Mavericks,1,23
+401704720,2024-11-04,2025,2,Cleveland Cavaliers,Milwaukee Bucks,5,15,116,114,,STATUS_FINAL,Cleveland Cavaliers,1,2
+401704721,2024-11-04,2025,2,Washington Wizards,Golden State Warriors,27,9,112,125,,STATUS_FINAL,Golden State Warriors,0,-13
+401704722,2024-11-04,2025,2,Detroit Pistons,Los Angeles Lakers,8,13,115,103,,STATUS_FINAL,Detroit Pistons,1,12
+401704723,2024-11-04,2025,2,Atlanta Hawks,Boston Celtics,1,2,93,123,,STATUS_FINAL,Boston Celtics,0,-30
+401704724,2024-11-04,2025,2,Brooklyn Nets,Memphis Grizzlies,17,29,106,104,,STATUS_FINAL,Brooklyn Nets,1,2
+401704725,2024-11-04,2025,2,Miami Heat,Sacramento Kings,14,23,110,111,,STATUS_FINAL,Sacramento Kings,0,-1
+401704726,2024-11-04,2025,2,Chicago Bulls,Utah Jazz,4,26,126,135,,STATUS_FINAL,Utah Jazz,0,-9
+401704727,2024-11-04,2025,2,Houston Rockets,New York Knicks,10,18,109,97,,STATUS_FINAL,Houston Rockets,1,12
+401704728,2024-11-04,2025,2,Minnesota Timberwolves,Charlotte Hornets,16,30,114,93,,STATUS_FINAL,Minnesota Timberwolves,1,21
+401704729,2024-11-04,2025,2,Oklahoma City Thunder,Orlando Magic,25,19,102,86,,STATUS_FINAL,Oklahoma City Thunder,1,16
+401704730,2024-11-04,2025,2,New Orleans Pelicans,Portland Trail Blazers,3,22,100,118,,STATUS_FINAL,Portland Trail Blazers,0,-18
+401704731,2024-11-04,2025,2,Dallas Mavericks,Indiana Pacers,6,11,127,134,,STATUS_FINAL,Indiana Pacers,0,-7
+401704732,2024-11-04,2025,2,Denver Nuggets,Toronto Raptors,7,28,121,119,,STATUS_FINAL,Denver Nuggets,1,2
+401704733,2024-11-04,2025,2,Phoenix Suns,Philadelphia 76ers,21,20,118,116,,STATUS_FINAL,Phoenix Suns,1,2
+401704734,2024-11-04,2025,2,LA Clippers,San Antonio Spurs,12,24,113,104,,STATUS_FINAL,LA Clippers,1,9
+401704735,2024-11-06,2025,2,Charlotte Hornets,Detroit Pistons,30,8,108,107,,STATUS_FINAL,Charlotte Hornets,1,1
+401704736,2024-11-06,2025,2,Indiana Pacers,Orlando Magic,11,19,118,111,,STATUS_FINAL,Indiana Pacers,1,7
+401704737,2024-11-06,2025,2,Atlanta Hawks,New York Knicks,1,18,121,116,,STATUS_FINAL,Atlanta Hawks,1,5
+401704738,2024-11-06,2025,2,Boston Celtics,Golden State Warriors,2,9,112,118,,STATUS_FINAL,Golden State Warriors,0,-6
+401704739,2024-11-06,2025,2,Houston Rockets,San Antonio Spurs,10,24,127,100,,STATUS_FINAL,Houston Rockets,1,27
+401704740,2024-11-06,2025,2,Memphis Grizzlies,Los Angeles Lakers,29,13,131,114,,STATUS_FINAL,Memphis Grizzlies,1,17
+401704741,2024-11-06,2025,2,New Orleans Pelicans,Cleveland Cavaliers,3,5,122,131,,STATUS_FINAL,Cleveland Cavaliers,0,-9
+401704742,2024-11-06,2025,2,Dallas Mavericks,Chicago Bulls,6,4,119,99,,STATUS_FINAL,Dallas Mavericks,1,20
+401704743,2024-11-06,2025,2,Denver Nuggets,Oklahoma City Thunder,7,25,124,122,,STATUS_FINAL,Denver Nuggets,1,2
+401704744,2024-11-06,2025,2,Phoenix Suns,Miami Heat,21,14,115,112,,STATUS_FINAL,Phoenix Suns,1,3
+401704745,2024-11-06,2025,2,LA Clippers,Philadelphia 76ers,12,20,110,98,,STATUS_FINAL,LA Clippers,1,12
+401704746,2024-11-06,2025,2,Sacramento Kings,Toronto Raptors,23,28,122,107,,STATUS_FINAL,Sacramento Kings,1,15
+401704747,2024-11-07,2025,2,Chicago Bulls,Minnesota Timberwolves,4,16,119,135,,STATUS_FINAL,Minnesota Timberwolves,0,-16
+401704748,2024-11-07,2025,2,Milwaukee Bucks,Utah Jazz,15,26,123,100,,STATUS_FINAL,Milwaukee Bucks,1,23
+401704749,2024-11-07,2025,2,San Antonio Spurs,Portland Trail Blazers,24,22,118,105,,STATUS_FINAL,San Antonio Spurs,1,13
+401704750,2024-11-08,2025,2,Charlotte Hornets,Indiana Pacers,30,11,103,83,,STATUS_FINAL,Charlotte Hornets,1,20
+401704751,2024-11-08,2025,2,Detroit Pistons,Atlanta Hawks,8,1,122,121,,STATUS_FINAL,Detroit Pistons,1,1
+401704752,2024-11-08,2025,2,Orlando Magic,New Orleans Pelicans,19,3,115,88,,STATUS_FINAL,Orlando Magic,1,27
+401704753,2024-11-08,2025,2,Boston Celtics,Brooklyn Nets,2,17,108,104,,STATUS_FINAL,Boston Celtics,1,4
+401704754,2024-11-08,2025,2,Cleveland Cavaliers,Golden State Warriors,5,9,136,117,,STATUS_FINAL,Cleveland Cavaliers,1,19
+401704755,2024-11-08,2025,2,New York Knicks,Milwaukee Bucks,18,15,116,94,,STATUS_FINAL,New York Knicks,1,22
+401704756,2024-11-08,2025,2,Dallas Mavericks,Phoenix Suns,6,21,113,114,,STATUS_FINAL,Phoenix Suns,0,-1
+401704757,2024-11-08,2025,2,Memphis Grizzlies,Washington Wizards,29,27,128,104,,STATUS_FINAL,Memphis Grizzlies,1,24
+401704758,2024-11-08,2025,2,Oklahoma City Thunder,Houston Rockets,25,10,126,107,,STATUS_FINAL,Oklahoma City Thunder,1,19
+401704759,2024-11-08,2025,2,Minnesota Timberwolves,Portland Trail Blazers,16,22,127,102,,STATUS_FINAL,Minnesota Timberwolves,1,25
+401704760,2024-11-08,2025,2,Denver Nuggets,Miami Heat,7,14,135,122,,STATUS_FINAL,Denver Nuggets,1,13
+401704761,2024-11-08,2025,2,Los Angeles Lakers,Philadelphia 76ers,13,20,116,106,,STATUS_FINAL,Los Angeles Lakers,1,10
+401704762,2024-11-08,2025,2,Sacramento Kings,LA Clippers,23,12,98,107,,STATUS_FINAL,LA Clippers,0,-9
+401704763,2024-11-09,2025,2,San Antonio Spurs,Utah Jazz,24,26,110,111,,STATUS_FINAL,Utah Jazz,0,-1
+401704764,2024-11-09,2025,2,Atlanta Hawks,Chicago Bulls,1,4,113,125,,STATUS_FINAL,Chicago Bulls,0,-12
+401704765,2024-11-09,2025,2,Cleveland Cavaliers,Brooklyn Nets,5,17,105,100,,STATUS_FINAL,Cleveland Cavaliers,1,5
+401704766,2024-11-09,2025,2,LA Clippers,Toronto Raptors,12,28,105,103,,STATUS_FINAL,LA Clippers,1,2
+401704767,2024-11-10,2025,2,Detroit Pistons,Houston Rockets,8,10,99,101,,STATUS_FINAL,Houston Rockets,0,-2
+401704768,2024-11-10,2025,2,Milwaukee Bucks,Boston Celtics,15,2,107,113,,STATUS_FINAL,Boston Celtics,0,-6
+401704769,2024-11-10,2025,2,Indiana Pacers,New York Knicks,11,18,132,121,,STATUS_FINAL,Indiana Pacers,1,11
+401704770,2024-11-10,2025,2,Orlando Magic,Washington Wizards,19,27,121,94,,STATUS_FINAL,Orlando Magic,1,27
+401704771,2024-11-10,2025,2,Philadelphia 76ers,Charlotte Hornets,20,30,107,105,,STATUS_FINAL,Philadelphia 76ers,1,2
+401704772,2024-11-10,2025,2,Minnesota Timberwolves,Miami Heat,16,14,94,95,,STATUS_FINAL,Miami Heat,0,-1
+401704773,2024-11-10,2025,2,Oklahoma City Thunder,Golden State Warriors,25,9,116,127,,STATUS_FINAL,Golden State Warriors,0,-11
+401704774,2024-11-10,2025,2,Denver Nuggets,Dallas Mavericks,7,6,122,120,,STATUS_FINAL,Denver Nuggets,1,2
+401704775,2024-11-10,2025,2,Phoenix Suns,Sacramento Kings,21,23,118,127,,STATUS_FINAL,Sacramento Kings,0,-9
+401704776,2024-11-10,2025,2,Portland Trail Blazers,Memphis Grizzlies,22,29,89,134,,STATUS_FINAL,Memphis Grizzlies,0,-45
+401704777,2024-11-10,2025,2,Los Angeles Lakers,Toronto Raptors,13,28,123,103,,STATUS_FINAL,Los Angeles Lakers,1,20
+401704778,2024-11-11,2025,2,Chicago Bulls,Cleveland Cavaliers,4,5,113,119,,STATUS_FINAL,Cleveland Cavaliers,0,-6
+401704779,2024-11-11,2025,2,Houston Rockets,Washington Wizards,10,27,107,92,,STATUS_FINAL,Houston Rockets,1,15
+401704780,2024-11-11,2025,2,New Orleans Pelicans,Brooklyn Nets,3,17,105,107,,STATUS_FINAL,Brooklyn Nets,0,-2
+401704781,2024-11-11,2025,2,Oklahoma City Thunder,LA Clippers,25,12,134,128,,STATUS_FINAL,Oklahoma City Thunder,1,6
+401704782,2024-11-11,2025,2,San Antonio Spurs,Sacramento Kings,24,23,116,96,,STATUS_FINAL,San Antonio Spurs,1,20
+401703370,2024-11-12,2025,2,Boston Celtics,Atlanta Hawks,2,1,116,117,,STATUS_FINAL,Atlanta Hawks,0,-1
+401703371,2024-11-12,2025,2,Detroit Pistons,Miami Heat,8,14,123,121,,STATUS_FINAL,Detroit Pistons,1,2
+401703372,2024-11-12,2025,2,Orlando Magic,Charlotte Hornets,19,30,114,89,,STATUS_FINAL,Orlando Magic,1,25
+401703373,2024-11-12,2025,2,Philadelphia 76ers,New York Knicks,20,18,99,111,,STATUS_FINAL,New York Knicks,0,-12
+401703374,2024-11-12,2025,2,Milwaukee Bucks,Toronto Raptors,15,28,99,85,,STATUS_FINAL,Milwaukee Bucks,1,14
+401703375,2024-11-12,2025,2,Utah Jazz,Phoenix Suns,26,21,112,120,,STATUS_FINAL,Phoenix Suns,0,-8
+401703376,2024-11-12,2025,2,Golden State Warriors,Dallas Mavericks,9,6,120,117,,STATUS_FINAL,Golden State Warriors,1,3
+401703377,2024-11-12,2025,2,Portland Trail Blazers,Minnesota Timberwolves,22,16,122,108,,STATUS_FINAL,Portland Trail Blazers,1,14
+401704783,2024-11-13,2025,2,Orlando Magic,Indiana Pacers,19,11,94,90,,STATUS_FINAL,Orlando Magic,1,4
+401704784,2024-11-13,2025,2,Brooklyn Nets,Boston Celtics,17,2,114,139,,STATUS_FINAL,Boston Celtics,0,-25
+401704785,2024-11-13,2025,2,New York Knicks,Chicago Bulls,18,4,123,124,,STATUS_FINAL,Chicago Bulls,0,-1
+401704786,2024-11-13,2025,2,Philadelphia 76ers,Cleveland Cavaliers,20,5,106,114,,STATUS_FINAL,Cleveland Cavaliers,0,-8
+401704787,2024-11-13,2025,2,Oklahoma City Thunder,New Orleans Pelicans,25,3,106,88,,STATUS_FINAL,Oklahoma City Thunder,1,18
+401704788,2024-11-13,2025,2,Houston Rockets,LA Clippers,10,12,111,103,,STATUS_FINAL,Houston Rockets,1,8
+401704789,2024-11-13,2025,2,Milwaukee Bucks,Detroit Pistons,15,8,127,120,,STATUS_FINAL,Milwaukee Bucks,1,7
+401704790,2024-11-13,2025,2,San Antonio Spurs,Washington Wizards,24,27,139,130,,STATUS_FINAL,San Antonio Spurs,1,9
+401704791,2024-11-13,2025,2,Los Angeles Lakers,Memphis Grizzlies,13,29,128,123,,STATUS_FINAL,Los Angeles Lakers,1,5
+401704792,2024-11-13,2025,2,Portland Trail Blazers,Minnesota Timberwolves,22,16,106,98,,STATUS_FINAL,Portland Trail Blazers,1,8
+401704793,2024-11-13,2025,2,Sacramento Kings,Phoenix Suns,23,21,127,104,,STATUS_FINAL,Sacramento Kings,1,23
+401704794,2024-11-14,2025,2,Utah Jazz,Dallas Mavericks,26,6,115,113,,STATUS_FINAL,Utah Jazz,1,2
+401703378,2024-11-15,2025,2,Indiana Pacers,Miami Heat,11,14,111,124,,STATUS_FINAL,Miami Heat,0,-13
+401703379,2024-11-15,2025,2,Orlando Magic,Philadelphia 76ers,19,20,98,86,,STATUS_FINAL,Orlando Magic,1,12
+401703380,2024-11-15,2025,2,Toronto Raptors,Detroit Pistons,28,8,95,99,,STATUS_FINAL,Detroit Pistons,0,-4
+401703381,2024-11-15,2025,2,Atlanta Hawks,Washington Wizards,1,27,129,117,,STATUS_FINAL,Atlanta Hawks,1,12
+401703382,2024-11-15,2025,2,Cleveland Cavaliers,Chicago Bulls,5,4,144,126,,STATUS_FINAL,Cleveland Cavaliers,1,18
+401703383,2024-11-15,2025,2,New York Knicks,Brooklyn Nets,18,17,124,122,,STATUS_FINAL,New York Knicks,1,2
+401703384,2024-11-15,2025,2,San Antonio Spurs,Los Angeles Lakers,24,13,115,120,,STATUS_FINAL,Los Angeles Lakers,0,-5
+401703385,2024-11-15,2025,2,Houston Rockets,LA Clippers,10,12,125,104,,STATUS_FINAL,Houston Rockets,1,21
+401703386,2024-11-15,2025,2,New Orleans Pelicans,Denver Nuggets,3,7,101,94,,STATUS_FINAL,New Orleans Pelicans,1,7
+401703387,2024-11-15,2025,2,Oklahoma City Thunder,Phoenix Suns,25,21,99,83,,STATUS_FINAL,Oklahoma City Thunder,1,16
+401703388,2024-11-15,2025,2,Golden State Warriors,Memphis Grizzlies,9,29,123,118,,STATUS_FINAL,Golden State Warriors,1,5
+401703389,2024-11-15,2025,2,Sacramento Kings,Minnesota Timberwolves,23,16,126,130,,STATUS_FINAL,Minnesota Timberwolves,0,-4
+401704795,2024-11-16,2025,2,Charlotte Hornets,Milwaukee Bucks,30,15,115,114,,STATUS_FINAL,Charlotte Hornets,1,1
+401704796,2024-11-16,2025,2,Boston Celtics,Toronto Raptors,2,28,126,123,,STATUS_FINAL,Boston Celtics,1,3
+401704797,2024-11-16,2025,2,New Orleans Pelicans,Los Angeles Lakers,3,13,99,104,,STATUS_FINAL,Los Angeles Lakers,0,-5
+401704798,2024-11-16,2025,2,Dallas Mavericks,San Antonio Spurs,6,24,110,93,,STATUS_FINAL,Dallas Mavericks,1,17
+401704799,2024-11-16,2025,2,Sacramento Kings,Utah Jazz,23,26,121,117,,STATUS_FINAL,Sacramento Kings,1,4
+401704800,2024-11-17,2025,2,Minnesota Timberwolves,Phoenix Suns,16,21,120,117,,STATUS_FINAL,Minnesota Timberwolves,1,3
+401704801,2024-11-17,2025,2,Indiana Pacers,Miami Heat,11,14,119,110,,STATUS_FINAL,Indiana Pacers,1,9
+401704802,2024-11-17,2025,2,Cleveland Cavaliers,Charlotte Hornets,5,30,128,114,,STATUS_FINAL,Cleveland Cavaliers,1,14
+401704803,2024-11-17,2025,2,Washington Wizards,Detroit Pistons,27,8,104,124,,STATUS_FINAL,Detroit Pistons,0,-20
+401704804,2024-11-17,2025,2,Memphis Grizzlies,Denver Nuggets,29,7,105,90,,STATUS_FINAL,Memphis Grizzlies,1,15
+401704805,2024-11-17,2025,2,Portland Trail Blazers,Atlanta Hawks,22,1,114,110,,STATUS_FINAL,Portland Trail Blazers,1,4
+401704806,2024-11-17,2025,2,New York Knicks,Brooklyn Nets,18,17,114,104,,STATUS_FINAL,New York Knicks,1,10
+401704807,2024-11-17,2025,2,Chicago Bulls,Houston Rockets,4,10,107,143,,STATUS_FINAL,Houston Rockets,0,-36
+401704808,2024-11-17,2025,2,Oklahoma City Thunder,Dallas Mavericks,25,6,119,121,,STATUS_FINAL,Dallas Mavericks,0,-2
+401704809,2024-11-17,2025,2,LA Clippers,Utah Jazz,12,26,116,105,,STATUS_FINAL,LA Clippers,1,11
+401704810,2024-11-18,2025,2,Detroit Pistons,Chicago Bulls,8,4,112,122,,STATUS_FINAL,Chicago Bulls,0,-10
+401704811,2024-11-18,2025,2,Miami Heat,Philadelphia 76ers,14,20,106,89,,STATUS_FINAL,Miami Heat,1,17
+401704812,2024-11-18,2025,2,New York Knicks,Washington Wizards,18,27,134,106,,STATUS_FINAL,New York Knicks,1,28
+401704813,2024-11-18,2025,2,Toronto Raptors,Indiana Pacers,28,11,130,119,,STATUS_FINAL,Toronto Raptors,1,11
+401704814,2024-11-18,2025,2,Milwaukee Bucks,Houston Rockets,15,10,101,100,,STATUS_FINAL,Milwaukee Bucks,1,1
+401704815,2024-11-18,2025,2,Phoenix Suns,Orlando Magic,21,19,99,109,,STATUS_FINAL,Orlando Magic,0,-10
+401704816,2024-11-18,2025,2,Sacramento Kings,Atlanta Hawks,23,1,108,109,,STATUS_FINAL,Atlanta Hawks,0,-1
+401704817,2024-11-18,2025,2,LA Clippers,Golden State Warriors,12,9,102,99,,STATUS_FINAL,LA Clippers,1,3
+401703390,2024-11-19,2025,2,Boston Celtics,Cleveland Cavaliers,2,5,120,117,,STATUS_FINAL,Boston Celtics,1,3
+401703391,2024-11-19,2025,2,Brooklyn Nets,Charlotte Hornets,17,30,116,115,,STATUS_FINAL,Brooklyn Nets,1,1
+401703392,2024-11-19,2025,2,Memphis Grizzlies,Denver Nuggets,29,7,110,122,,STATUS_FINAL,Denver Nuggets,0,-12
+401703393,2024-11-19,2025,2,Dallas Mavericks,New Orleans Pelicans,6,3,132,91,,STATUS_FINAL,Dallas Mavericks,1,41
+401703394,2024-11-19,2025,2,San Antonio Spurs,Oklahoma City Thunder,24,25,110,104,,STATUS_FINAL,San Antonio Spurs,1,6
+401703395,2024-11-19,2025,2,Los Angeles Lakers,Utah Jazz,13,26,124,118,,STATUS_FINAL,Los Angeles Lakers,1,6
+401704818,2024-11-20,2025,2,Cleveland Cavaliers,New Orleans Pelicans,5,3,128,100,,STATUS_FINAL,Cleveland Cavaliers,1,28
+401704819,2024-11-20,2025,2,Milwaukee Bucks,Chicago Bulls,15,4,122,106,,STATUS_FINAL,Milwaukee Bucks,1,16
+401704820,2024-11-20,2025,2,Houston Rockets,Indiana Pacers,10,11,130,113,,STATUS_FINAL,Houston Rockets,1,17
+401704821,2024-11-20,2025,2,Memphis Grizzlies,Philadelphia 76ers,29,20,117,111,,STATUS_FINAL,Memphis Grizzlies,1,6
+401704822,2024-11-20,2025,2,Oklahoma City Thunder,Portland Trail Blazers,25,22,109,99,,STATUS_FINAL,Oklahoma City Thunder,1,10
+401704823,2024-11-20,2025,2,Phoenix Suns,New York Knicks,21,18,122,138,,STATUS_FINAL,New York Knicks,0,-16
+401704824,2024-11-20,2025,2,Golden State Warriors,Atlanta Hawks,9,1,120,97,,STATUS_FINAL,Golden State Warriors,1,23
+401704825,2024-11-20,2025,2,LA Clippers,Orlando Magic,12,19,104,93,,STATUS_FINAL,LA Clippers,1,11
+401704826,2024-11-21,2025,2,Charlotte Hornets,Detroit Pistons,30,8,123,121,,STATUS_FINAL,Charlotte Hornets,1,2
+401704827,2024-11-21,2025,2,Toronto Raptors,Minnesota Timberwolves,28,16,110,105,,STATUS_FINAL,Toronto Raptors,1,5
+401704828,2024-11-21,2025,2,San Antonio Spurs,Utah Jazz,24,26,126,118,,STATUS_FINAL,San Antonio Spurs,1,8
+401704829,2024-11-21,2025,2,Los Angeles Lakers,Orlando Magic,13,19,118,119,,STATUS_FINAL,Orlando Magic,0,-1
+401703396,2024-11-22,2025,2,Philadelphia 76ers,Brooklyn Nets,20,17,113,98,,STATUS_FINAL,Philadelphia 76ers,1,15
+401703397,2024-11-22,2025,2,Washington Wizards,Boston Celtics,27,2,96,108,,STATUS_FINAL,Boston Celtics,0,-12
+401703398,2024-11-22,2025,2,Milwaukee Bucks,Indiana Pacers,15,11,129,117,,STATUS_FINAL,Milwaukee Bucks,1,12
+401703399,2024-11-22,2025,2,Chicago Bulls,Atlanta Hawks,4,1,136,122,,STATUS_FINAL,Chicago Bulls,1,14
+401703400,2024-11-22,2025,2,Houston Rockets,Portland Trail Blazers,10,22,116,88,,STATUS_FINAL,Houston Rockets,1,28
+401703401,2024-11-22,2025,2,New Orleans Pelicans,Golden State Warriors,3,9,108,112,,STATUS_FINAL,Golden State Warriors,0,-4
+401703402,2024-11-22,2025,2,Denver Nuggets,Dallas Mavericks,7,6,120,123,,STATUS_FINAL,Dallas Mavericks,0,-3
+401703403,2024-11-22,2025,2,LA Clippers,Sacramento Kings,12,23,104,88,,STATUS_FINAL,LA Clippers,1,16
+401704830,2024-11-23,2025,2,Utah Jazz,New York Knicks,26,18,121,106,,STATUS_FINAL,Utah Jazz,1,15
+401704831,2024-11-23,2025,2,Orlando Magic,Detroit Pistons,19,8,111,100,,STATUS_FINAL,Orlando Magic,1,11
+401704832,2024-11-23,2025,2,Chicago Bulls,Memphis Grizzlies,4,29,131,142,,STATUS_FINAL,Memphis Grizzlies,0,-11
+401704833,2024-11-23,2025,2,Houston Rockets,Portland Trail Blazers,10,22,98,104,,STATUS_FINAL,Portland Trail Blazers,0,-6
+401704834,2024-11-23,2025,2,Milwaukee Bucks,Charlotte Hornets,15,30,125,119,,STATUS_FINAL,Milwaukee Bucks,1,6
+401704835,2024-11-23,2025,2,San Antonio Spurs,Golden State Warriors,24,9,104,94,,STATUS_FINAL,San Antonio Spurs,1,10
+401704836,2024-11-23,2025,2,Los Angeles Lakers,Denver Nuggets,13,7,102,127,,STATUS_FINAL,Denver Nuggets,0,-25
+401704837,2024-11-24,2025,2,Boston Celtics,Minnesota Timberwolves,2,16,107,105,,STATUS_FINAL,Boston Celtics,1,2
+401704838,2024-11-24,2025,2,Indiana Pacers,Washington Wizards,11,27,115,103,,STATUS_FINAL,Indiana Pacers,1,12
+401704839,2024-11-24,2025,2,Miami Heat,Dallas Mavericks,14,6,123,118,,STATUS_FINAL,Miami Heat,1,5
+401704840,2024-11-24,2025,2,Philadelphia 76ers,LA Clippers,20,12,99,125,,STATUS_FINAL,LA Clippers,0,-26
+401704841,2024-11-24,2025,2,Cleveland Cavaliers,Toronto Raptors,5,28,122,108,,STATUS_FINAL,Cleveland Cavaliers,1,14
+401704842,2024-11-24,2025,2,Sacramento Kings,Brooklyn Nets,23,17,103,108,,STATUS_FINAL,Brooklyn Nets,0,-5
+401704843,2024-11-25,2025,2,Charlotte Hornets,Orlando Magic,30,19,84,95,,STATUS_FINAL,Orlando Magic,0,-11
+401704844,2024-11-25,2025,2,Detroit Pistons,Toronto Raptors,8,28,102,100,,STATUS_FINAL,Detroit Pistons,1,2
+401704845,2024-11-25,2025,2,Indiana Pacers,New Orleans Pelicans,11,3,114,110,,STATUS_FINAL,Indiana Pacers,1,4
+401704846,2024-11-25,2025,2,Atlanta Hawks,Dallas Mavericks,1,6,119,129,,STATUS_FINAL,Dallas Mavericks,0,-10
+401704847,2024-11-25,2025,2,Boston Celtics,LA Clippers,2,12,126,94,,STATUS_FINAL,Boston Celtics,1,32
+401704848,2024-11-25,2025,2,Memphis Grizzlies,Portland Trail Blazers,29,22,123,98,,STATUS_FINAL,Memphis Grizzlies,1,25
+401704849,2024-11-25,2025,2,Denver Nuggets,New York Knicks,7,18,118,145,,STATUS_FINAL,New York Knicks,0,-27
+401704850,2024-11-25,2025,2,Golden State Warriors,Brooklyn Nets,9,17,120,128,,STATUS_FINAL,Brooklyn Nets,0,-8
+401704851,2024-11-25,2025,2,Sacramento Kings,Oklahoma City Thunder,23,25,109,130,,STATUS_FINAL,Oklahoma City Thunder,0,-21
+401703404,2024-11-26,2025,2,Washington Wizards,Chicago Bulls,27,4,108,127,,STATUS_FINAL,Chicago Bulls,0,-19
+401703405,2024-11-26,2025,2,Miami Heat,Milwaukee Bucks,14,15,103,106,,STATUS_FINAL,Milwaukee Bucks,0,-3
+401703406,2024-11-26,2025,2,Minnesota Timberwolves,Houston Rockets,16,10,111,117,,STATUS_FINAL,Houston Rockets,0,-6
+401703407,2024-11-26,2025,2,Utah Jazz,San Antonio Spurs,26,24,115,128,,STATUS_FINAL,San Antonio Spurs,0,-13
+401703408,2024-11-26,2025,2,Phoenix Suns,Los Angeles Lakers,21,13,127,100,,STATUS_FINAL,Phoenix Suns,1,27
+401704852,2024-11-27,2025,2,Charlotte Hornets,Miami Heat,30,14,94,98,,STATUS_FINAL,Miami Heat,0,-4
+401704853,2024-11-27,2025,2,Cleveland Cavaliers,Atlanta Hawks,5,1,124,135,,STATUS_FINAL,Atlanta Hawks,0,-11
+401704854,2024-11-27,2025,2,Indiana Pacers,Portland Trail Blazers,11,22,121,114,,STATUS_FINAL,Indiana Pacers,1,7
+401704855,2024-11-27,2025,2,Orlando Magic,Chicago Bulls,19,4,133,119,,STATUS_FINAL,Orlando Magic,1,14
+401704856,2024-11-27,2025,2,Philadelphia 76ers,Houston Rockets,20,10,115,122,,STATUS_FINAL,Houston Rockets,0,-7
+401704857,2024-11-27,2025,2,Washington Wizards,LA Clippers,27,12,96,121,,STATUS_FINAL,LA Clippers,0,-25
+401704858,2024-11-27,2025,2,Dallas Mavericks,New York Knicks,6,18,129,114,,STATUS_FINAL,Dallas Mavericks,1,15
+401704859,2024-11-27,2025,2,Memphis Grizzlies,Detroit Pistons,29,8,131,111,,STATUS_FINAL,Memphis Grizzlies,1,20
+401704860,2024-11-27,2025,2,Minnesota Timberwolves,Sacramento Kings,16,23,104,115,,STATUS_FINAL,Sacramento Kings,0,-11
+401704861,2024-11-27,2025,2,New Orleans Pelicans,Toronto Raptors,3,28,93,119,,STATUS_FINAL,Toronto Raptors,0,-26
+401704862,2024-11-27,2025,2,San Antonio Spurs,Los Angeles Lakers,24,13,101,119,,STATUS_FINAL,Los Angeles Lakers,0,-18
+401704863,2024-11-27,2025,2,Phoenix Suns,Brooklyn Nets,21,17,117,127,,STATUS_FINAL,Brooklyn Nets,0,-10
+401704864,2024-11-27,2025,2,Utah Jazz,Denver Nuggets,26,7,103,122,,STATUS_FINAL,Denver Nuggets,0,-19
+401704865,2024-11-27,2025,2,Golden State Warriors,Oklahoma City Thunder,9,25,101,105,,STATUS_FINAL,Oklahoma City Thunder,0,-4
+401703409,2024-11-29,2025,2,Charlotte Hornets,New York Knicks,30,18,98,99,,STATUS_FINAL,New York Knicks,0,-1
+401703410,2024-11-29,2025,2,Atlanta Hawks,Cleveland Cavaliers,1,5,117,101,,STATUS_FINAL,Atlanta Hawks,1,16
+401703411,2024-11-29,2025,2,Memphis Grizzlies,New Orleans Pelicans,29,3,120,109,,STATUS_FINAL,Memphis Grizzlies,1,11
+401703412,2024-11-29,2025,2,Brooklyn Nets,Orlando Magic,17,19,100,123,,STATUS_FINAL,Orlando Magic,0,-23
+401703413,2024-11-29,2025,2,Minnesota Timberwolves,LA Clippers,16,12,93,92,,STATUS_FINAL,Minnesota Timberwolves,1,1
+401703414,2024-11-29,2025,2,Indiana Pacers,Detroit Pistons,11,8,106,130,,STATUS_FINAL,Detroit Pistons,0,-24
+401703415,2024-11-29,2025,2,Miami Heat,Toronto Raptors,14,28,121,111,,STATUS_FINAL,Miami Heat,1,10
+401703416,2024-11-29,2025,2,Chicago Bulls,Boston Celtics,4,2,129,138,,STATUS_FINAL,Boston Celtics,0,-9
+401703417,2024-11-29,2025,2,Los Angeles Lakers,Oklahoma City Thunder,13,25,93,101,,STATUS_FINAL,Oklahoma City Thunder,0,-8
+401703418,2024-11-29,2025,2,Portland Trail Blazers,Sacramento Kings,22,23,115,106,,STATUS_FINAL,Portland Trail Blazers,1,9
+401704866,2024-11-30,2025,2,Charlotte Hornets,Atlanta Hawks,30,1,104,107,,STATUS_FINAL,Atlanta Hawks,0,-3
+401704867,2024-11-30,2025,2,Detroit Pistons,Philadelphia 76ers,8,20,96,111,,STATUS_FINAL,Philadelphia 76ers,0,-15
+401704868,2024-11-30,2025,2,Milwaukee Bucks,Washington Wizards,15,27,124,114,,STATUS_FINAL,Milwaukee Bucks,1,10
+401704869,2024-11-30,2025,2,Phoenix Suns,Golden State Warriors,21,9,113,105,,STATUS_FINAL,Phoenix Suns,1,8
+401704870,2024-11-30,2025,2,Utah Jazz,Dallas Mavericks,26,6,94,106,,STATUS_FINAL,Dallas Mavericks,0,-12
+401704871,2024-12-01,2025,2,Brooklyn Nets,Orlando Magic,17,19,92,100,,STATUS_FINAL,Orlando Magic,0,-8
+401704872,2024-12-01,2025,2,Memphis Grizzlies,Indiana Pacers,29,11,136,121,,STATUS_FINAL,Memphis Grizzlies,1,15
+401704873,2024-12-01,2025,2,Cleveland Cavaliers,Boston Celtics,5,2,115,111,,STATUS_FINAL,Cleveland Cavaliers,1,4
+401704874,2024-12-01,2025,2,New York Knicks,New Orleans Pelicans,18,3,118,85,,STATUS_FINAL,New York Knicks,1,33
+401704875,2024-12-01,2025,2,Toronto Raptors,Miami Heat,28,14,119,116,,STATUS_FINAL,Toronto Raptors,1,3
+401704876,2024-12-01,2025,2,Houston Rockets,Oklahoma City Thunder,10,25,119,116,,STATUS_FINAL,Houston Rockets,1,3
+401704877,2024-12-01,2025,2,Utah Jazz,Los Angeles Lakers,26,13,104,105,,STATUS_FINAL,Los Angeles Lakers,0,-1
+401704878,2024-12-01,2025,2,Portland Trail Blazers,Dallas Mavericks,22,6,131,137,,STATUS_FINAL,Dallas Mavericks,0,-6
+401704879,2024-12-01,2025,2,Sacramento Kings,San Antonio Spurs,23,24,125,127,,STATUS_FINAL,San Antonio Spurs,0,-2
+401704880,2024-12-01,2025,2,LA Clippers,Denver Nuggets,12,7,126,122,,STATUS_FINAL,LA Clippers,1,4
+401704881,2024-12-02,2025,2,Atlanta Hawks,New Orleans Pelicans,1,3,124,112,,STATUS_FINAL,Atlanta Hawks,1,12
+401704882,2024-12-02,2025,2,Boston Celtics,Miami Heat,2,14,108,89,,STATUS_FINAL,Boston Celtics,1,19
+401704883,2024-12-02,2025,2,Chicago Bulls,Brooklyn Nets,4,17,128,102,,STATUS_FINAL,Chicago Bulls,1,26
+401704884,2024-12-02,2025,2,Minnesota Timberwolves,Los Angeles Lakers,16,13,109,80,,STATUS_FINAL,Minnesota Timberwolves,1,29
+401703419,2024-12-03,2025,2,Charlotte Hornets,Philadelphia 76ers,30,20,104,110,,STATUS_FINAL,Philadelphia 76ers,0,-6
+401703420,2024-12-03,2025,2,Cleveland Cavaliers,Washington Wizards,5,27,118,87,,STATUS_FINAL,Cleveland Cavaliers,1,31
+401703421,2024-12-03,2025,2,Detroit Pistons,Milwaukee Bucks,8,15,107,128,,STATUS_FINAL,Milwaukee Bucks,0,-21
+401703422,2024-12-03,2025,2,New York Knicks,Orlando Magic,18,19,121,106,,STATUS_FINAL,New York Knicks,1,15
+401703423,2024-12-03,2025,2,Toronto Raptors,Indiana Pacers,28,11,122,111,,STATUS_FINAL,Toronto Raptors,1,11
+401703424,2024-12-03,2025,2,Oklahoma City Thunder,Utah Jazz,25,26,133,106,,STATUS_FINAL,Oklahoma City Thunder,1,27
+401703425,2024-12-03,2025,2,Dallas Mavericks,Memphis Grizzlies,6,29,121,116,,STATUS_FINAL,Dallas Mavericks,1,5
+401703426,2024-12-03,2025,2,Phoenix Suns,San Antonio Spurs,21,24,104,93,,STATUS_FINAL,Phoenix Suns,1,11
+401703427,2024-12-03,2025,2,Denver Nuggets,Golden State Warriors,7,9,119,115,,STATUS_FINAL,Denver Nuggets,1,4
+401703428,2024-12-03,2025,2,Sacramento Kings,Houston Rockets,23,10,120,111,,STATUS_FINAL,Sacramento Kings,1,9
+401703429,2024-12-03,2025,2,LA Clippers,Portland Trail Blazers,12,22,127,105,,STATUS_FINAL,LA Clippers,1,22
+401704885,2024-12-04,2025,2,Boston Celtics,Detroit Pistons,2,8,130,120,,STATUS_FINAL,Boston Celtics,1,10
+401704886,2024-12-04,2025,2,Brooklyn Nets,Indiana Pacers,17,11,99,90,,STATUS_FINAL,Brooklyn Nets,1,9
+401704887,2024-12-04,2025,2,Miami Heat,Los Angeles Lakers,14,13,134,93,,STATUS_FINAL,Miami Heat,1,41
+401704888,2024-12-04,2025,2,Philadelphia 76ers,Orlando Magic,20,19,102,106,,STATUS_FINAL,Orlando Magic,0,-4
+401704889,2024-12-04,2025,2,Milwaukee Bucks,Atlanta Hawks,15,1,104,119,,STATUS_FINAL,Atlanta Hawks,0,-15
+401704890,2024-12-04,2025,2,LA Clippers,Minnesota Timberwolves,12,16,80,108,,STATUS_FINAL,Minnesota Timberwolves,0,-28
+401704891,2024-12-05,2025,2,Cleveland Cavaliers,Denver Nuggets,5,7,126,114,,STATUS_FINAL,Cleveland Cavaliers,1,12
+401704892,2024-12-05,2025,2,Washington Wizards,Dallas Mavericks,27,6,101,137,,STATUS_FINAL,Dallas Mavericks,0,-36
+401704893,2024-12-05,2025,2,New York Knicks,Charlotte Hornets,18,30,125,101,,STATUS_FINAL,New York Knicks,1,24
+401704894,2024-12-05,2025,2,Toronto Raptors,Oklahoma City Thunder,28,25,92,129,,STATUS_FINAL,Oklahoma City Thunder,0,-37
+401704895,2024-12-05,2025,2,Memphis Grizzlies,Sacramento Kings,29,23,115,110,,STATUS_FINAL,Memphis Grizzlies,1,5
+401704896,2024-12-05,2025,2,New Orleans Pelicans,Phoenix Suns,3,21,126,124,,STATUS_FINAL,New Orleans Pelicans,1,2
+401704897,2024-12-05,2025,2,San Antonio Spurs,Chicago Bulls,24,4,124,139,,STATUS_FINAL,Chicago Bulls,0,-15
+401704898,2024-12-05,2025,2,Golden State Warriors,Houston Rockets,9,10,99,93,,STATUS_FINAL,Golden State Warriors,1,6
+401704899,2024-12-06,2025,2,Philadelphia 76ers,Orlando Magic,20,19,102,94,,STATUS_FINAL,Philadelphia 76ers,1,8
+401704900,2024-12-06,2025,2,Atlanta Hawks,Los Angeles Lakers,1,13,134,132,,STATUS_FINAL,Atlanta Hawks,1,2
+401704901,2024-12-06,2025,2,Boston Celtics,Milwaukee Bucks,2,15,111,105,,STATUS_FINAL,Boston Celtics,1,6
+401704902,2024-12-06,2025,2,Chicago Bulls,Indiana Pacers,4,11,123,132,,STATUS_FINAL,Indiana Pacers,0,-9
+401704903,2024-12-06,2025,2,San Antonio Spurs,Sacramento Kings,24,23,113,140,,STATUS_FINAL,Sacramento Kings,0,-27
+401704904,2024-12-06,2025,2,Golden State Warriors,Minnesota Timberwolves,9,16,90,107,,STATUS_FINAL,Minnesota Timberwolves,0,-17
+401704905,2024-12-06,2025,2,Portland Trail Blazers,Utah Jazz,22,26,99,141,,STATUS_FINAL,Utah Jazz,0,-42
+401704906,2024-12-07,2025,2,Charlotte Hornets,Cleveland Cavaliers,30,5,102,116,,STATUS_FINAL,Cleveland Cavaliers,0,-14
+401704907,2024-12-07,2025,2,Washington Wizards,Denver Nuggets,27,7,122,113,,STATUS_FINAL,Washington Wizards,1,9
+401704908,2024-12-07,2025,2,New Orleans Pelicans,Oklahoma City Thunder,3,25,109,119,,STATUS_FINAL,Oklahoma City Thunder,0,-10
+401704909,2024-12-07,2025,2,New York Knicks,Detroit Pistons,18,8,111,120,,STATUS_FINAL,Detroit Pistons,0,-9
+401704910,2024-12-07,2025,2,Toronto Raptors,Dallas Mavericks,28,6,118,125,,STATUS_FINAL,Dallas Mavericks,0,-7
+401704911,2024-12-07,2025,2,Boston Celtics,Memphis Grizzlies,2,29,121,127,,STATUS_FINAL,Memphis Grizzlies,0,-6
+401704912,2024-12-07,2025,2,Miami Heat,Phoenix Suns,14,21,121,111,,STATUS_FINAL,Miami Heat,1,10
+401704913,2024-12-08,2025,2,Chicago Bulls,Philadelphia 76ers,4,20,100,108,,STATUS_FINAL,Philadelphia 76ers,0,-8
+401704914,2024-12-08,2025,2,Brooklyn Nets,Milwaukee Bucks,17,15,113,118,,STATUS_FINAL,Milwaukee Bucks,0,-5
+401704915,2024-12-08,2025,2,Indiana Pacers,Charlotte Hornets,11,30,109,113,,STATUS_FINAL,Charlotte Hornets,0,-4
+401704916,2024-12-08,2025,2,Atlanta Hawks,Denver Nuggets,1,7,111,141,,STATUS_FINAL,Denver Nuggets,0,-30
+401704917,2024-12-08,2025,2,Miami Heat,Cleveland Cavaliers,14,5,122,113,,STATUS_FINAL,Miami Heat,1,9
+401704918,2024-12-08,2025,2,Orlando Magic,Phoenix Suns,19,21,115,110,,STATUS_FINAL,Orlando Magic,1,5
+401704919,2024-12-08,2025,2,Washington Wizards,Memphis Grizzlies,27,29,112,140,,STATUS_FINAL,Memphis Grizzlies,0,-28
+401704920,2024-12-08,2025,2,San Antonio Spurs,New Orleans Pelicans,24,3,121,116,,STATUS_FINAL,San Antonio Spurs,1,5
+401704921,2024-12-08,2025,2,Golden State Warriors,Minnesota Timberwolves,9,16,114,106,,STATUS_FINAL,Golden State Warriors,1,8
+401704922,2024-12-08,2025,2,LA Clippers,Houston Rockets,12,10,106,117,,STATUS_FINAL,Houston Rockets,0,-11
+401704923,2024-12-08,2025,2,Sacramento Kings,Utah Jazz,23,26,141,97,,STATUS_FINAL,Sacramento Kings,1,44
+401704924,2024-12-08,2025,2,Los Angeles Lakers,Portland Trail Blazers,13,22,107,98,,STATUS_FINAL,Los Angeles Lakers,1,9
+401704925,2024-12-09,2025,2,Toronto Raptors,New York Knicks,28,18,108,113,,STATUS_FINAL,New York Knicks,0,-5
+401734902,2024-12-10,2025,2,Milwaukee Bucks,Orlando Magic,15,19,114,109,,STATUS_FINAL,Milwaukee Bucks,1,5
+401734903,2024-12-10,2025,2,Oklahoma City Thunder,Dallas Mavericks,25,6,118,104,,STATUS_FINAL,Oklahoma City Thunder,1,14
+401734904,2024-12-11,2025,2,New York Knicks,Atlanta Hawks,18,1,100,108,,STATUS_FINAL,Atlanta Hawks,0,-8
+401734905,2024-12-11,2025,2,Houston Rockets,Golden State Warriors,10,9,91,90,,STATUS_FINAL,Houston Rockets,1,1
+401736799,2024-12-12,2025,2,Boston Celtics,Detroit Pistons,2,8,123,99,,STATUS_FINAL,Boston Celtics,1,24
+401736800,2024-12-12,2025,2,Miami Heat,Toronto Raptors,14,28,114,104,,STATUS_FINAL,Miami Heat,1,10
+401736801,2024-12-12,2025,2,New Orleans Pelicans,Sacramento Kings,3,23,109,111,,STATUS_FINAL,Sacramento Kings,0,-2
+401736802,2024-12-13,2025,2,Cleveland Cavaliers,Washington Wizards,5,27,115,105,,STATUS_FINAL,Cleveland Cavaliers,1,10
+401736803,2024-12-13,2025,2,Philadelphia 76ers,Indiana Pacers,20,11,107,121,,STATUS_FINAL,Indiana Pacers,0,-14
+401736804,2024-12-13,2025,2,Minnesota Timberwolves,Los Angeles Lakers,16,13,97,87,,STATUS_FINAL,Minnesota Timberwolves,1,10
+401736805,2024-12-13,2025,2,Memphis Grizzlies,Brooklyn Nets,29,17,135,119,,STATUS_FINAL,Memphis Grizzlies,1,16
+401736806,2024-12-13,2025,2,Chicago Bulls,Charlotte Hornets,4,30,109,95,,STATUS_FINAL,Chicago Bulls,1,14
+401736807,2024-12-13,2025,2,Denver Nuggets,LA Clippers,7,12,120,98,,STATUS_FINAL,Denver Nuggets,1,22
+401736808,2024-12-13,2025,2,Utah Jazz,Phoenix Suns,26,21,126,134,,STATUS_FINAL,Phoenix Suns,0,-8
+401736809,2024-12-13,2025,2,Portland Trail Blazers,San Antonio Spurs,22,24,116,118,,STATUS_FINAL,San Antonio Spurs,0,-2
+401734906,2024-12-14,2025,2,Milwaukee Bucks,Atlanta Hawks,15,1,110,102,,STATUS_FINAL,Milwaukee Bucks,1,8
+401734907,2024-12-14,2025,2,Oklahoma City Thunder,Houston Rockets,25,10,111,96,,STATUS_FINAL,Oklahoma City Thunder,1,15
+401736810,2024-12-15,2025,2,Indiana Pacers,New Orleans Pelicans,11,3,119,104,,STATUS_FINAL,Indiana Pacers,1,15
+401736811,2024-12-15,2025,2,Washington Wizards,Boston Celtics,27,2,98,112,,STATUS_FINAL,Boston Celtics,0,-14
+401736812,2024-12-15,2025,2,San Antonio Spurs,Minnesota Timberwolves,24,16,92,106,,STATUS_FINAL,Minnesota Timberwolves,0,-14
+401736813,2024-12-15,2025,2,Phoenix Suns,Portland Trail Blazers,21,22,116,109,,STATUS_FINAL,Phoenix Suns,1,7
+401736814,2024-12-15,2025,2,Los Angeles Lakers,Memphis Grizzlies,13,29,116,110,,STATUS_FINAL,Los Angeles Lakers,1,6
+401737902,2024-12-15,2025,2,Orlando Magic,New York Knicks,19,18,91,100,,STATUS_FINAL,New York Knicks,0,-9
+401737912,2024-12-15,2025,2,Golden State Warriors,Dallas Mavericks,9,6,133,143,,STATUS_FINAL,Dallas Mavericks,0,-10
+401736815,2024-12-16,2025,2,Charlotte Hornets,Philadelphia 76ers,30,20,108,121,,STATUS_FINAL,Philadelphia 76ers,0,-13
+401736816,2024-12-16,2025,2,Detroit Pistons,Miami Heat,8,14,125,124,,STATUS_FINAL,Detroit Pistons,1,1
+401736817,2024-12-16,2025,2,Toronto Raptors,Chicago Bulls,28,4,121,122,,STATUS_FINAL,Chicago Bulls,0,-1
+401736818,2024-12-16,2025,2,Brooklyn Nets,Cleveland Cavaliers,17,5,101,130,,STATUS_FINAL,Cleveland Cavaliers,0,-29
+401736819,2024-12-16,2025,2,Sacramento Kings,Denver Nuggets,23,7,129,130,,STATUS_FINAL,Denver Nuggets,0,-1
+401736820,2024-12-16,2025,2,LA Clippers,Utah Jazz,12,26,144,107,,STATUS_FINAL,LA Clippers,1,37
+401734908,2024-12-17,2025,2,Oklahoma City Thunder,Milwaukee Bucks,25,15,81,97,,STATUS_FINAL,Milwaukee Bucks,0,-16
+401704926,2024-12-19,2025,2,Detroit Pistons,Utah Jazz,8,26,119,126,,STATUS_FINAL,Utah Jazz,0,-7
+401704927,2024-12-19,2025,2,Orlando Magic,Oklahoma City Thunder,19,25,99,105,,STATUS_FINAL,Oklahoma City Thunder,0,-6
+401704928,2024-12-19,2025,2,Washington Wizards,Charlotte Hornets,27,30,123,114,,STATUS_FINAL,Washington Wizards,1,9
+401704929,2024-12-19,2025,2,Boston Celtics,Chicago Bulls,2,4,108,117,,STATUS_FINAL,Chicago Bulls,0,-9
+401704930,2024-12-19,2025,2,Toronto Raptors,Brooklyn Nets,28,17,94,101,,STATUS_FINAL,Brooklyn Nets,0,-7
+401704931,2024-12-19,2025,2,Houston Rockets,New Orleans Pelicans,10,3,133,113,,STATUS_FINAL,Houston Rockets,1,20
+401704932,2024-12-19,2025,2,Memphis Grizzlies,Golden State Warriors,29,9,144,93,,STATUS_FINAL,Memphis Grizzlies,1,51
+401704933,2024-12-19,2025,2,Minnesota Timberwolves,New York Knicks,16,18,107,133,,STATUS_FINAL,New York Knicks,0,-26
+401704934,2024-12-19,2025,2,Dallas Mavericks,LA Clippers,6,12,95,118,,STATUS_FINAL,LA Clippers,0,-23
+401704935,2024-12-19,2025,2,Phoenix Suns,Indiana Pacers,21,11,111,120,,STATUS_FINAL,Indiana Pacers,0,-9
+401704936,2024-12-19,2025,2,San Antonio Spurs,Atlanta Hawks,24,1,133,126,,STATUS_FINAL,San Antonio Spurs,1,7
+401704937,2024-12-19,2025,2,Portland Trail Blazers,Denver Nuggets,22,7,126,124,,STATUS_FINAL,Portland Trail Blazers,1,2
+401704938,2024-12-19,2025,2,Sacramento Kings,Los Angeles Lakers,23,13,100,113,,STATUS_FINAL,Los Angeles Lakers,0,-13
+401704939,2024-12-20,2025,2,Philadelphia 76ers,Charlotte Hornets,20,30,108,98,,STATUS_FINAL,Philadelphia 76ers,1,10
+401704940,2024-12-20,2025,2,Cleveland Cavaliers,Milwaukee Bucks,5,15,124,101,,STATUS_FINAL,Cleveland Cavaliers,1,23
+401704941,2024-12-20,2025,2,Miami Heat,Oklahoma City Thunder,14,25,97,104,,STATUS_FINAL,Oklahoma City Thunder,0,-7
+401704942,2024-12-21,2025,2,Sacramento Kings,Los Angeles Lakers,23,13,99,103,,STATUS_FINAL,Los Angeles Lakers,0,-4
+401704943,2024-12-21,2025,2,Orlando Magic,Miami Heat,19,14,121,114,,STATUS_FINAL,Orlando Magic,1,7
+401704944,2024-12-21,2025,2,Atlanta Hawks,Memphis Grizzlies,1,29,112,128,,STATUS_FINAL,Memphis Grizzlies,0,-16
+401704945,2024-12-21,2025,2,Brooklyn Nets,Utah Jazz,17,26,94,105,,STATUS_FINAL,Utah Jazz,0,-11
+401704946,2024-12-21,2025,2,Cleveland Cavaliers,Philadelphia 76ers,5,20,126,99,,STATUS_FINAL,Cleveland Cavaliers,1,27
+401704947,2024-12-21,2025,2,Chicago Bulls,Boston Celtics,4,2,98,123,,STATUS_FINAL,Boston Celtics,0,-25
+401704948,2024-12-21,2025,2,Milwaukee Bucks,Washington Wizards,15,27,112,101,,STATUS_FINAL,Milwaukee Bucks,1,11
+401704949,2024-12-21,2025,2,Minnesota Timberwolves,Golden State Warriors,16,9,103,113,,STATUS_FINAL,Golden State Warriors,0,-10
+401704950,2024-12-21,2025,2,New Orleans Pelicans,New York Knicks,3,18,93,104,,STATUS_FINAL,New York Knicks,0,-11
+401704951,2024-12-21,2025,2,Dallas Mavericks,LA Clippers,6,12,113,97,,STATUS_FINAL,Dallas Mavericks,1,16
+401704952,2024-12-21,2025,2,San Antonio Spurs,Portland Trail Blazers,24,22,114,94,,STATUS_FINAL,San Antonio Spurs,1,20
+401704953,2024-12-21,2025,2,Phoenix Suns,Detroit Pistons,21,8,125,133,,STATUS_FINAL,Detroit Pistons,0,-8
+401704954,2024-12-22,2025,2,Toronto Raptors,Houston Rockets,28,10,110,114,,STATUS_FINAL,Houston Rockets,0,-4
+401704955,2024-12-22,2025,2,Sacramento Kings,Indiana Pacers,23,11,95,122,,STATUS_FINAL,Indiana Pacers,0,-27
+401704956,2024-12-22,2025,2,New Orleans Pelicans,Denver Nuggets,3,7,129,132,,STATUS_FINAL,Denver Nuggets,0,-3
+401704957,2024-12-23,2025,2,Charlotte Hornets,Houston Rockets,30,10,101,114,,STATUS_FINAL,Houston Rockets,0,-13
+401704958,2024-12-23,2025,2,Cleveland Cavaliers,Utah Jazz,5,26,124,113,,STATUS_FINAL,Cleveland Cavaliers,1,11
+401704959,2024-12-23,2025,2,Orlando Magic,Boston Celtics,19,2,108,104,,STATUS_FINAL,Orlando Magic,1,4
+401704960,2024-12-23,2025,2,Philadelphia 76ers,San Antonio Spurs,20,24,111,106,,STATUS_FINAL,Philadelphia 76ers,1,5
+401704961,2024-12-23,2025,2,Atlanta Hawks,Minnesota Timberwolves,1,16,117,104,,STATUS_FINAL,Atlanta Hawks,1,13
+401704962,2024-12-23,2025,2,Miami Heat,Brooklyn Nets,14,17,110,95,,STATUS_FINAL,Miami Heat,1,15
+401704963,2024-12-23,2025,2,New York Knicks,Toronto Raptors,18,28,139,125,,STATUS_FINAL,New York Knicks,1,14
+401704964,2024-12-23,2025,2,Chicago Bulls,Milwaukee Bucks,4,15,91,112,,STATUS_FINAL,Milwaukee Bucks,0,-21
+401704965,2024-12-23,2025,2,Memphis Grizzlies,LA Clippers,29,12,110,114,,STATUS_FINAL,LA Clippers,0,-4
+401704966,2024-12-23,2025,2,Oklahoma City Thunder,Washington Wizards,25,27,123,105,,STATUS_FINAL,Oklahoma City Thunder,1,18
+401704967,2024-12-23,2025,2,Dallas Mavericks,Portland Trail Blazers,6,22,132,108,,STATUS_FINAL,Dallas Mavericks,1,24
+401704968,2024-12-23,2025,2,Denver Nuggets,Phoenix Suns,7,21,117,90,,STATUS_FINAL,Denver Nuggets,1,27
+401704969,2024-12-23,2025,2,Golden State Warriors,Indiana Pacers,9,11,105,111,,STATUS_FINAL,Indiana Pacers,0,-6
+401704970,2024-12-23,2025,2,Los Angeles Lakers,Detroit Pistons,13,8,114,117,,STATUS_FINAL,Detroit Pistons,0,-3
+401704971,2024-12-25,2025,2,New York Knicks,San Antonio Spurs,18,24,117,114,,STATUS_FINAL,New York Knicks,1,3
+401704972,2024-12-25,2025,2,Dallas Mavericks,Minnesota Timberwolves,6,16,99,105,,STATUS_FINAL,Minnesota Timberwolves,0,-6
+401704973,2024-12-25,2025,2,Boston Celtics,Philadelphia 76ers,2,20,114,118,,STATUS_FINAL,Philadelphia 76ers,0,-4
+401704974,2024-12-25,2025,2,Golden State Warriors,Los Angeles Lakers,9,13,113,115,,STATUS_FINAL,Los Angeles Lakers,0,-2
+401704975,2024-12-25,2025,2,Phoenix Suns,Denver Nuggets,21,7,110,100,,STATUS_FINAL,Phoenix Suns,1,10
+401704976,2024-12-26,2025,2,Indiana Pacers,Oklahoma City Thunder,11,25,114,120,,STATUS_FINAL,Oklahoma City Thunder,0,-6
+401704977,2024-12-26,2025,2,Orlando Magic,Miami Heat,19,14,88,89,,STATUS_FINAL,Miami Heat,0,-1
+401704978,2024-12-26,2025,2,Washington Wizards,Charlotte Hornets,27,30,113,110,,STATUS_FINAL,Washington Wizards,1,3
+401704979,2024-12-26,2025,2,Atlanta Hawks,Chicago Bulls,1,4,141,133,,STATUS_FINAL,Atlanta Hawks,1,8
+401704980,2024-12-26,2025,2,Memphis Grizzlies,Toronto Raptors,29,28,155,126,,STATUS_FINAL,Memphis Grizzlies,1,29
+401704981,2024-12-26,2025,2,Milwaukee Bucks,Brooklyn Nets,15,17,105,111,,STATUS_FINAL,Brooklyn Nets,0,-6
+401704982,2024-12-26,2025,2,New Orleans Pelicans,Houston Rockets,3,10,111,128,,STATUS_FINAL,Houston Rockets,0,-17
+401704983,2024-12-26,2025,2,Portland Trail Blazers,Utah Jazz,22,26,122,120,,STATUS_FINAL,Portland Trail Blazers,1,2
+401704984,2024-12-26,2025,2,Sacramento Kings,Detroit Pistons,23,8,113,114,,STATUS_FINAL,Detroit Pistons,0,-1
+401704985,2024-12-27,2025,2,Orlando Magic,New York Knicks,19,18,85,108,,STATUS_FINAL,New York Knicks,0,-23
+401704986,2024-12-27,2025,2,Boston Celtics,Indiana Pacers,2,11,142,105,,STATUS_FINAL,Boston Celtics,1,37
+401704987,2024-12-27,2025,2,Brooklyn Nets,San Antonio Spurs,17,24,87,96,,STATUS_FINAL,San Antonio Spurs,0,-9
+401704988,2024-12-27,2025,2,Houston Rockets,Minnesota Timberwolves,10,16,112,113,,STATUS_FINAL,Minnesota Timberwolves,0,-1
+401704989,2024-12-27,2025,2,New Orleans Pelicans,Memphis Grizzlies,3,29,124,132,,STATUS_FINAL,Memphis Grizzlies,0,-8
+401704990,2024-12-27,2025,2,Denver Nuggets,Cleveland Cavaliers,7,5,135,149,,STATUS_FINAL,Cleveland Cavaliers,0,-14
+401704991,2024-12-27,2025,2,Phoenix Suns,Dallas Mavericks,21,6,89,98,,STATUS_FINAL,Dallas Mavericks,0,-9
+401704992,2024-12-27,2025,2,LA Clippers,Golden State Warriors,12,9,102,92,,STATUS_FINAL,LA Clippers,1,10
+401704993,2024-12-28,2025,2,Atlanta Hawks,Miami Heat,1,14,120,110,,STATUS_FINAL,Atlanta Hawks,1,10
+401704994,2024-12-28,2025,2,Charlotte Hornets,Oklahoma City Thunder,30,25,94,106,,STATUS_FINAL,Oklahoma City Thunder,0,-12
+401704995,2024-12-28,2025,2,Washington Wizards,New York Knicks,27,18,132,136,,STATUS_FINAL,New York Knicks,0,-4
+401704996,2024-12-28,2025,2,Chicago Bulls,Milwaukee Bucks,4,15,116,111,,STATUS_FINAL,Chicago Bulls,1,5
+401704997,2024-12-28,2025,2,Golden State Warriors,Phoenix Suns,9,21,109,105,,STATUS_FINAL,Golden State Warriors,1,4
+401704998,2024-12-28,2025,2,Denver Nuggets,Detroit Pistons,7,8,134,121,,STATUS_FINAL,Denver Nuggets,1,13
+401704999,2024-12-28,2025,2,Utah Jazz,Philadelphia 76ers,26,20,111,114,,STATUS_FINAL,Philadelphia 76ers,0,-3
+401705000,2024-12-28,2025,2,Portland Trail Blazers,Dallas Mavericks,22,6,126,122,,STATUS_FINAL,Portland Trail Blazers,1,4
+401705001,2024-12-28,2025,2,Los Angeles Lakers,Sacramento Kings,13,23,132,122,,STATUS_FINAL,Los Angeles Lakers,1,10
+401705002,2024-12-29,2025,2,Orlando Magic,Brooklyn Nets,19,17,102,101,,STATUS_FINAL,Orlando Magic,1,1
+401705003,2024-12-29,2025,2,Boston Celtics,Indiana Pacers,2,11,114,123,,STATUS_FINAL,Indiana Pacers,0,-9
+401705004,2024-12-29,2025,2,Toronto Raptors,Atlanta Hawks,28,1,107,136,,STATUS_FINAL,Atlanta Hawks,0,-29
+401705005,2024-12-29,2025,2,Houston Rockets,Miami Heat,10,14,100,104,,STATUS_FINAL,Miami Heat,0,-4
+401705006,2024-12-29,2025,2,Oklahoma City Thunder,Memphis Grizzlies,25,29,130,106,,STATUS_FINAL,Oklahoma City Thunder,1,24
+401705007,2024-12-29,2025,2,Minnesota Timberwolves,San Antonio Spurs,16,24,112,110,,STATUS_FINAL,Minnesota Timberwolves,1,2
+401705008,2024-12-30,2025,2,Charlotte Hornets,Chicago Bulls,30,4,108,115,,STATUS_FINAL,Chicago Bulls,0,-7
+401705009,2024-12-30,2025,2,Washington Wizards,New York Knicks,27,18,106,126,,STATUS_FINAL,New York Knicks,0,-20
+401705010,2024-12-30,2025,2,New Orleans Pelicans,LA Clippers,3,12,113,116,,STATUS_FINAL,LA Clippers,0,-3
+401705011,2024-12-30,2025,2,Utah Jazz,Denver Nuggets,26,7,121,132,,STATUS_FINAL,Denver Nuggets,0,-11
+401705012,2024-12-30,2025,2,Golden State Warriors,Cleveland Cavaliers,9,5,95,113,,STATUS_FINAL,Cleveland Cavaliers,0,-18
+401705013,2024-12-30,2025,2,Portland Trail Blazers,Philadelphia 76ers,22,20,103,125,,STATUS_FINAL,Philadelphia 76ers,0,-22
+401705014,2024-12-30,2025,2,Sacramento Kings,Dallas Mavericks,23,6,110,100,,STATUS_FINAL,Sacramento Kings,1,10
+401705015,2024-12-31,2025,2,Boston Celtics,Toronto Raptors,2,28,125,71,,STATUS_FINAL,Boston Celtics,1,54
+401705016,2024-12-31,2025,2,Indiana Pacers,Milwaukee Bucks,11,15,112,120,,STATUS_FINAL,Milwaukee Bucks,0,-8
+401705017,2024-12-31,2025,2,San Antonio Spurs,LA Clippers,24,12,122,86,,STATUS_FINAL,San Antonio Spurs,1,36
+401705018,2024-12-31,2025,2,Oklahoma City Thunder,Minnesota Timberwolves,25,16,113,105,,STATUS_FINAL,Oklahoma City Thunder,1,8
+401705019,2024-12-31,2025,2,Phoenix Suns,Memphis Grizzlies,21,29,112,117,,STATUS_FINAL,Memphis Grizzlies,0,-5
+401705020,2024-12-31,2025,2,Los Angeles Lakers,Cleveland Cavaliers,13,5,110,122,,STATUS_FINAL,Cleveland Cavaliers,0,-12
+401705021,2025-01-01,2025,2,Detroit Pistons,Orlando Magic,8,19,105,96,,STATUS_FINAL,Detroit Pistons,1,9
+401705022,2025-01-01,2025,2,Washington Wizards,Chicago Bulls,27,4,125,107,,STATUS_FINAL,Washington Wizards,1,18
+401705023,2025-01-01,2025,2,Miami Heat,New Orleans Pelicans,14,3,119,108,,STATUS_FINAL,Miami Heat,1,11
+401705024,2025-01-01,2025,2,New York Knicks,Utah Jazz,18,26,119,103,,STATUS_FINAL,New York Knicks,1,16
+401705025,2025-01-01,2025,2,Toronto Raptors,Brooklyn Nets,28,17,130,113,,STATUS_FINAL,Toronto Raptors,1,17
+401705026,2025-01-01,2025,2,Houston Rockets,Dallas Mavericks,10,6,110,99,,STATUS_FINAL,Houston Rockets,1,11
+401705027,2025-01-01,2025,2,Denver Nuggets,Atlanta Hawks,7,1,139,120,,STATUS_FINAL,Denver Nuggets,1,19
+401705028,2025-01-01,2025,2,Sacramento Kings,Philadelphia 76ers,23,20,113,107,,STATUS_FINAL,Sacramento Kings,1,6
+401705029,2025-01-02,2025,2,Miami Heat,Indiana Pacers,14,11,115,128,,STATUS_FINAL,Indiana Pacers,0,-13
+401705030,2025-01-02,2025,2,Minnesota Timberwolves,Boston Celtics,16,2,115,118,,STATUS_FINAL,Boston Celtics,0,-3
+401705031,2025-01-02,2025,2,Milwaukee Bucks,Brooklyn Nets,15,17,110,113,,STATUS_FINAL,Brooklyn Nets,0,-3
+401705032,2025-01-02,2025,2,Oklahoma City Thunder,LA Clippers,25,12,116,98,,STATUS_FINAL,Oklahoma City Thunder,1,18
+401705033,2025-01-02,2025,2,Golden State Warriors,Philadelphia 76ers,9,20,139,105,,STATUS_FINAL,Golden State Warriors,1,34
+401705034,2025-01-02,2025,2,Los Angeles Lakers,Portland Trail Blazers,13,22,114,106,,STATUS_FINAL,Los Angeles Lakers,1,8
+401705035,2025-01-03,2025,2,Detroit Pistons,Charlotte Hornets,8,30,98,94,,STATUS_FINAL,Detroit Pistons,1,4
+401705036,2025-01-03,2025,2,Toronto Raptors,Orlando Magic,28,19,97,106,,STATUS_FINAL,Orlando Magic,0,-9
+401705037,2025-01-03,2025,2,Houston Rockets,Boston Celtics,10,2,86,109,,STATUS_FINAL,Boston Celtics,0,-23
+401705038,2025-01-03,2025,2,New Orleans Pelicans,Washington Wizards,3,27,132,120,,STATUS_FINAL,New Orleans Pelicans,1,12
+401705039,2025-01-03,2025,2,Oklahoma City Thunder,New York Knicks,25,18,117,107,,STATUS_FINAL,Oklahoma City Thunder,1,10
+401705040,2025-01-03,2025,2,Dallas Mavericks,Cleveland Cavaliers,6,5,122,134,,STATUS_FINAL,Cleveland Cavaliers,0,-12
+401705041,2025-01-03,2025,2,Denver Nuggets,San Antonio Spurs,7,24,110,113,,STATUS_FINAL,San Antonio Spurs,0,-3
+401705042,2025-01-03,2025,2,Sacramento Kings,Memphis Grizzlies,23,29,138,133,,STATUS_FINAL,Sacramento Kings,1,5
+401705043,2025-01-03,2025,2,Los Angeles Lakers,Atlanta Hawks,13,1,119,102,,STATUS_FINAL,Los Angeles Lakers,1,17
+401705044,2025-01-04,2025,2,Brooklyn Nets,Philadelphia 76ers,17,20,94,123,,STATUS_FINAL,Philadelphia 76ers,0,-29
+401705045,2025-01-04,2025,2,Detroit Pistons,Minnesota Timberwolves,8,16,119,105,,STATUS_FINAL,Detroit Pistons,1,14
+401705046,2025-01-04,2025,2,Indiana Pacers,Phoenix Suns,11,21,126,108,,STATUS_FINAL,Indiana Pacers,1,18
+401705047,2025-01-04,2025,2,Miami Heat,Utah Jazz,14,26,100,136,,STATUS_FINAL,Utah Jazz,0,-36
+401705048,2025-01-04,2025,2,Chicago Bulls,New York Knicks,4,18,139,126,,STATUS_FINAL,Chicago Bulls,1,13
+401705049,2025-01-04,2025,2,Milwaukee Bucks,Portland Trail Blazers,15,22,102,105,,STATUS_FINAL,Portland Trail Blazers,0,-3
+401705050,2025-01-04,2025,2,San Antonio Spurs,Denver Nuggets,24,7,111,122,,STATUS_FINAL,Denver Nuggets,0,-11
+401705051,2025-01-04,2025,2,Golden State Warriors,Memphis Grizzlies,9,29,121,113,,STATUS_FINAL,Golden State Warriors,1,8
+401705052,2025-01-04,2025,2,LA Clippers,Atlanta Hawks,12,1,131,105,,STATUS_FINAL,LA Clippers,1,26
+401705053,2025-01-05,2025,2,Oklahoma City Thunder,Boston Celtics,25,2,105,92,,STATUS_FINAL,Oklahoma City Thunder,1,13
+401705054,2025-01-05,2025,2,Cleveland Cavaliers,Charlotte Hornets,5,30,115,105,,STATUS_FINAL,Cleveland Cavaliers,1,10
+401705055,2025-01-05,2025,2,Washington Wizards,New Orleans Pelicans,27,3,98,110,,STATUS_FINAL,New Orleans Pelicans,0,-12
+401705056,2025-01-05,2025,2,Orlando Magic,Utah Jazz,19,26,92,105,,STATUS_FINAL,Utah Jazz,0,-13
+401705057,2025-01-05,2025,2,Houston Rockets,Los Angeles Lakers,10,13,119,115,,STATUS_FINAL,Houston Rockets,1,4
+401705058,2025-01-05,2025,2,Golden State Warriors,Sacramento Kings,9,23,99,129,,STATUS_FINAL,Sacramento Kings,0,-30
+401705059,2025-01-06,2025,2,Detroit Pistons,Portland Trail Blazers,8,22,118,115,,STATUS_FINAL,Detroit Pistons,1,3
+401705060,2025-01-06,2025,2,Philadelphia 76ers,Phoenix Suns,20,21,99,109,,STATUS_FINAL,Phoenix Suns,0,-10
+401705061,2025-01-06,2025,2,Brooklyn Nets,Indiana Pacers,17,11,99,113,,STATUS_FINAL,Indiana Pacers,0,-14
+401705062,2025-01-06,2025,2,New York Knicks,Orlando Magic,18,19,94,103,,STATUS_FINAL,Orlando Magic,0,-9
+401705063,2025-01-06,2025,2,Toronto Raptors,Milwaukee Bucks,28,15,104,128,,STATUS_FINAL,Milwaukee Bucks,0,-24
+401705064,2025-01-06,2025,2,Chicago Bulls,San Antonio Spurs,4,24,114,110,,STATUS_FINAL,Chicago Bulls,1,4
+401705065,2025-01-06,2025,2,Memphis Grizzlies,Dallas Mavericks,29,6,119,104,,STATUS_FINAL,Memphis Grizzlies,1,15
+401705066,2025-01-06,2025,2,Minnesota Timberwolves,LA Clippers,16,12,108,106,,STATUS_FINAL,Minnesota Timberwolves,1,2
+401705067,2025-01-06,2025,2,Sacramento Kings,Miami Heat,23,14,123,118,,STATUS_FINAL,Sacramento Kings,1,5
+401705068,2025-01-07,2025,2,Charlotte Hornets,Phoenix Suns,30,21,115,104,,STATUS_FINAL,Charlotte Hornets,1,11
+401705069,2025-01-07,2025,2,Washington Wizards,Houston Rockets,27,10,112,135,,STATUS_FINAL,Houston Rockets,0,-23
+401705070,2025-01-07,2025,2,Dallas Mavericks,Los Angeles Lakers,6,13,118,97,,STATUS_FINAL,Dallas Mavericks,1,21
+401705071,2025-01-07,2025,2,New Orleans Pelicans,Minnesota Timberwolves,3,16,97,104,,STATUS_FINAL,Minnesota Timberwolves,0,-7
+401705072,2025-01-07,2025,2,Utah Jazz,Atlanta Hawks,26,1,121,124,,STATUS_FINAL,Atlanta Hawks,0,-3
+401705073,2025-01-07,2025,2,Denver Nuggets,Boston Celtics,7,2,106,118,,STATUS_FINAL,Boston Celtics,0,-12
+401705074,2025-01-07,2025,2,Golden State Warriors,Miami Heat,9,14,98,114,,STATUS_FINAL,Miami Heat,0,-16
+401705075,2025-01-08,2025,2,Cleveland Cavaliers,Oklahoma City Thunder,5,25,129,122,,STATUS_FINAL,Cleveland Cavaliers,1,7
+401705076,2025-01-08,2025,2,Indiana Pacers,Chicago Bulls,11,4,129,113,,STATUS_FINAL,Indiana Pacers,1,16
+401705077,2025-01-08,2025,2,New York Knicks,Toronto Raptors,18,28,112,98,,STATUS_FINAL,New York Knicks,1,14
+401705078,2025-01-08,2025,2,Philadelphia 76ers,Washington Wizards,20,27,109,103,,STATUS_FINAL,Philadelphia 76ers,1,6
+401705079,2025-01-08,2025,2,Brooklyn Nets,Detroit Pistons,17,8,98,113,,STATUS_FINAL,Detroit Pistons,0,-15
+401705080,2025-01-08,2025,2,New Orleans Pelicans,Portland Trail Blazers,3,22,100,119,,STATUS_FINAL,Portland Trail Blazers,0,-19
+401705081,2025-01-08,2025,2,Denver Nuggets,LA Clippers,7,12,126,103,,STATUS_FINAL,Denver Nuggets,1,23
+401705082,2025-01-08,2025,2,Milwaukee Bucks,San Antonio Spurs,15,24,121,105,,STATUS_FINAL,Milwaukee Bucks,1,16
+401705083,2025-01-09,2025,2,Cleveland Cavaliers,Toronto Raptors,5,28,132,126,,STATUS_FINAL,Cleveland Cavaliers,1,6
+401705084,2025-01-09,2025,2,Detroit Pistons,Golden State Warriors,8,9,104,107,,STATUS_FINAL,Golden State Warriors,0,-3
+401705085,2025-01-09,2025,2,Orlando Magic,Minnesota Timberwolves,19,16,89,104,,STATUS_FINAL,Minnesota Timberwolves,0,-15
+401705086,2025-01-09,2025,2,Memphis Grizzlies,Houston Rockets,29,10,115,119,,STATUS_FINAL,Houston Rockets,0,-4
+401705087,2025-01-09,2025,2,Dallas Mavericks,Portland Trail Blazers,6,22,117,111,,STATUS_FINAL,Dallas Mavericks,1,6
+401705088,2025-01-09,2025,2,Phoenix Suns,Atlanta Hawks,21,1,123,115,,STATUS_FINAL,Phoenix Suns,1,8
+401705089,2025-01-09,2025,2,Utah Jazz,Miami Heat,26,14,92,97,,STATUS_FINAL,Miami Heat,0,-5
+401705090,2025-01-09,2025,2,Los Angeles Lakers,Charlotte Hornets,13,30,0,0,,STATUS_POSTPONED,,0,0
+401705091,2025-01-10,2025,2,Indiana Pacers,Golden State Warriors,11,9,108,96,,STATUS_FINAL,Indiana Pacers,1,12
+401705092,2025-01-10,2025,2,Orlando Magic,Milwaukee Bucks,19,15,106,109,,STATUS_FINAL,Milwaukee Bucks,0,-3
+401705093,2025-01-10,2025,2,Philadelphia 76ers,New Orleans Pelicans,20,3,115,123,,STATUS_FINAL,New Orleans Pelicans,0,-8
+401705094,2025-01-10,2025,2,Boston Celtics,Sacramento Kings,2,23,97,114,,STATUS_FINAL,Sacramento Kings,0,-17
+401705095,2025-01-10,2025,2,New York Knicks,Oklahoma City Thunder,18,25,101,126,,STATUS_FINAL,Oklahoma City Thunder,0,-25
+401705096,2025-01-10,2025,2,Chicago Bulls,Washington Wizards,4,27,138,105,,STATUS_FINAL,Chicago Bulls,1,33
+401705097,2025-01-10,2025,2,Denver Nuggets,Brooklyn Nets,7,17,124,105,,STATUS_FINAL,Denver Nuggets,1,19
+401705098,2025-01-11,2025,2,Atlanta Hawks,Houston Rockets,1,10,0,0,,STATUS_POSTPONED,,0,0
+401705099,2025-01-11,2025,2,Phoenix Suns,Utah Jazz,21,26,114,106,,STATUS_FINAL,Phoenix Suns,1,8
+401705100,2025-01-11,2025,2,Detroit Pistons,Toronto Raptors,8,28,123,114,,STATUS_FINAL,Detroit Pistons,1,9
+401705101,2025-01-11,2025,2,Minnesota Timberwolves,Memphis Grizzlies,16,29,125,127,,STATUS_FINAL,Memphis Grizzlies,0,-2
+401705102,2025-01-11,2025,2,Portland Trail Blazers,Miami Heat,22,14,98,119,,STATUS_FINAL,Miami Heat,0,-21
+401705103,2025-01-11,2025,2,Los Angeles Lakers,San Antonio Spurs,13,24,0,0,,STATUS_POSTPONED,,0,0
+401705104,2025-01-11,2025,2,LA Clippers,Charlotte Hornets,12,30,0,0,,STATUS_POSTPONED,,0,0
+401705105,2025-01-12,2025,2,New York Knicks,Milwaukee Bucks,18,15,140,106,,STATUS_FINAL,New York Knicks,1,34
+401705106,2025-01-12,2025,2,Dallas Mavericks,Denver Nuggets,6,7,101,112,,STATUS_FINAL,Denver Nuggets,0,-11
+401705107,2025-01-12,2025,2,Chicago Bulls,Sacramento Kings,4,23,119,124,,STATUS_FINAL,Sacramento Kings,0,-5
+401705108,2025-01-12,2025,2,Boston Celtics,New Orleans Pelicans,2,3,120,119,,STATUS_FINAL,Boston Celtics,1,1
+401705109,2025-01-12,2025,2,Cleveland Cavaliers,Indiana Pacers,5,11,93,108,,STATUS_FINAL,Indiana Pacers,0,-15
+401705110,2025-01-12,2025,2,Orlando Magic,Philadelphia 76ers,19,20,104,99,,STATUS_FINAL,Orlando Magic,1,5
+401705111,2025-01-12,2025,2,Washington Wizards,Oklahoma City Thunder,27,25,95,136,,STATUS_FINAL,Oklahoma City Thunder,0,-41
+401705112,2025-01-12,2025,2,Utah Jazz,Brooklyn Nets,26,17,112,111,,STATUS_FINAL,Utah Jazz,1,1
+401705113,2025-01-12,2025,2,Phoenix Suns,Charlotte Hornets,21,30,120,113,,STATUS_FINAL,Phoenix Suns,1,7
+401705114,2025-01-13,2025,2,Washington Wizards,Minnesota Timberwolves,27,16,106,120,,STATUS_FINAL,Minnesota Timberwolves,0,-14
+401705115,2025-01-13,2025,2,New York Knicks,Detroit Pistons,18,8,119,124,,STATUS_FINAL,Detroit Pistons,0,-5
+401705116,2025-01-13,2025,2,Toronto Raptors,Golden State Warriors,28,9,104,101,,STATUS_FINAL,Toronto Raptors,1,3
+401705117,2025-01-13,2025,2,Houston Rockets,Memphis Grizzlies,10,29,120,118,,STATUS_FINAL,Houston Rockets,1,2
+401705118,2025-01-13,2025,2,Los Angeles Lakers,San Antonio Spurs,13,24,102,126,,STATUS_FINAL,San Antonio Spurs,0,-24
+401705119,2025-01-13,2025,2,LA Clippers,Miami Heat,12,14,109,98,,STATUS_FINAL,LA Clippers,1,11
+401705120,2025-01-14,2025,2,Indiana Pacers,Cleveland Cavaliers,11,5,117,127,,STATUS_FINAL,Cleveland Cavaliers,0,-10
+401705121,2025-01-14,2025,2,Philadelphia 76ers,Oklahoma City Thunder,20,25,102,118,,STATUS_FINAL,Oklahoma City Thunder,0,-16
+401705122,2025-01-14,2025,2,Atlanta Hawks,Phoenix Suns,1,21,122,117,,STATUS_FINAL,Atlanta Hawks,1,5
+401705123,2025-01-14,2025,2,Chicago Bulls,New Orleans Pelicans,4,3,113,119,,STATUS_FINAL,New Orleans Pelicans,0,-6
+401705124,2025-01-14,2025,2,Milwaukee Bucks,Sacramento Kings,15,23,130,115,,STATUS_FINAL,Milwaukee Bucks,1,15
+401705125,2025-01-14,2025,2,Dallas Mavericks,Denver Nuggets,6,7,99,118,,STATUS_FINAL,Denver Nuggets,0,-19
+401705126,2025-01-14,2025,2,Portland Trail Blazers,Brooklyn Nets,22,17,114,132,,STATUS_FINAL,Brooklyn Nets,0,-18
+401705127,2025-01-15,2025,2,Philadelphia 76ers,New York Knicks,20,18,119,125,,STATUS_FINAL,New York Knicks,0,-6
+401705128,2025-01-15,2025,2,Toronto Raptors,Boston Celtics,28,2,110,97,,STATUS_FINAL,Toronto Raptors,1,13
+401705129,2025-01-15,2025,2,Chicago Bulls,Atlanta Hawks,4,1,94,110,,STATUS_FINAL,Atlanta Hawks,0,-16
+401705130,2025-01-15,2025,2,Milwaukee Bucks,Orlando Magic,15,19,122,93,,STATUS_FINAL,Milwaukee Bucks,1,29
+401705131,2025-01-15,2025,2,Minnesota Timberwolves,Golden State Warriors,16,9,115,116,,STATUS_FINAL,Golden State Warriors,0,-1
+401705132,2025-01-15,2025,2,New Orleans Pelicans,Dallas Mavericks,3,6,119,116,,STATUS_FINAL,New Orleans Pelicans,1,3
+401705133,2025-01-15,2025,2,San Antonio Spurs,Memphis Grizzlies,24,29,115,129,,STATUS_FINAL,Memphis Grizzlies,0,-14
+401705134,2025-01-15,2025,2,Denver Nuggets,Houston Rockets,7,10,108,128,,STATUS_FINAL,Houston Rockets,0,-20
+401705135,2025-01-15,2025,2,Utah Jazz,Charlotte Hornets,26,30,112,117,,STATUS_FINAL,Charlotte Hornets,0,-5
+401705136,2025-01-15,2025,2,Los Angeles Lakers,Miami Heat,13,14,117,108,,STATUS_FINAL,Los Angeles Lakers,1,9
+401705137,2025-01-15,2025,2,LA Clippers,Brooklyn Nets,12,17,126,67,,STATUS_FINAL,LA Clippers,1,59
+401705138,2025-01-16,2025,2,Detroit Pistons,Indiana Pacers,8,11,100,111,,STATUS_FINAL,Indiana Pacers,0,-11
+401705139,2025-01-16,2025,2,Washington Wizards,Phoenix Suns,27,21,123,130,,STATUS_FINAL,Phoenix Suns,0,-7
+401705140,2025-01-16,2025,2,Oklahoma City Thunder,Cleveland Cavaliers,25,5,134,114,,STATUS_FINAL,Oklahoma City Thunder,1,20
+401705141,2025-01-16,2025,2,Portland Trail Blazers,LA Clippers,22,12,89,118,,STATUS_FINAL,LA Clippers,0,-29
+401705142,2025-01-16,2025,2,Sacramento Kings,Houston Rockets,23,10,132,127,,STATUS_FINAL,Sacramento Kings,1,5
+401705143,2025-01-17,2025,2,Boston Celtics,Orlando Magic,2,19,121,94,,STATUS_FINAL,Boston Celtics,1,27
+401705144,2025-01-17,2025,2,New York Knicks,Minnesota Timberwolves,18,16,99,116,,STATUS_FINAL,Minnesota Timberwolves,0,-17
+401705145,2025-01-17,2025,2,Miami Heat,Denver Nuggets,14,7,113,133,,STATUS_FINAL,Denver Nuggets,0,-20
+401705146,2025-01-17,2025,2,Milwaukee Bucks,Toronto Raptors,15,28,130,112,,STATUS_FINAL,Milwaukee Bucks,1,18
+401705147,2025-01-17,2025,2,New Orleans Pelicans,Utah Jazz,3,26,136,123,,STATUS_FINAL,New Orleans Pelicans,1,13
+401705148,2025-01-17,2025,2,San Antonio Spurs,Memphis Grizzlies,24,29,112,140,,STATUS_FINAL,Memphis Grizzlies,0,-28
+401705149,2025-01-17,2025,2,Dallas Mavericks,Oklahoma City Thunder,6,25,106,98,,STATUS_FINAL,Dallas Mavericks,1,8
+401705150,2025-01-17,2025,2,Chicago Bulls,Charlotte Hornets,4,30,123,125,,STATUS_FINAL,Charlotte Hornets,0,-2
+401705151,2025-01-17,2025,2,Los Angeles Lakers,Brooklyn Nets,13,17,102,101,,STATUS_FINAL,Los Angeles Lakers,1,1
+401705152,2025-01-18,2025,2,Detroit Pistons,Phoenix Suns,8,21,121,125,,STATUS_FINAL,Phoenix Suns,0,-4
+401705153,2025-01-18,2025,2,Boston Celtics,Atlanta Hawks,2,1,115,119,,STATUS_FINAL,Atlanta Hawks,0,-4
+401705154,2025-01-18,2025,2,Indiana Pacers,Philadelphia 76ers,11,20,115,102,,STATUS_FINAL,Indiana Pacers,1,13
+401705155,2025-01-18,2025,2,Golden State Warriors,Washington Wizards,9,27,122,114,,STATUS_FINAL,Golden State Warriors,1,8
+401705156,2025-01-18,2025,2,Minnesota Timberwolves,Cleveland Cavaliers,16,5,117,124,,STATUS_FINAL,Cleveland Cavaliers,0,-7
+401705157,2025-01-18,2025,2,Portland Trail Blazers,Houston Rockets,22,10,103,125,,STATUS_FINAL,Houston Rockets,0,-22
+401705158,2025-01-19,2025,2,Miami Heat,San Antonio Spurs,14,24,128,107,,STATUS_FINAL,Miami Heat,1,21
+401705159,2025-01-19,2025,2,Orlando Magic,Denver Nuggets,19,7,100,113,,STATUS_FINAL,Denver Nuggets,0,-13
+401705160,2025-01-19,2025,2,Milwaukee Bucks,Philadelphia 76ers,15,20,123,109,,STATUS_FINAL,Milwaukee Bucks,1,14
+401705161,2025-01-19,2025,2,Oklahoma City Thunder,Brooklyn Nets,25,17,127,101,,STATUS_FINAL,Oklahoma City Thunder,1,26
+401705162,2025-01-19,2025,2,LA Clippers,Los Angeles Lakers,12,13,116,102,,STATUS_FINAL,LA Clippers,1,14
+401705163,2025-01-19,2025,2,Portland Trail Blazers,Chicago Bulls,22,4,113,102,,STATUS_FINAL,Portland Trail Blazers,1,11
+401705164,2025-01-19,2025,2,Sacramento Kings,Washington Wizards,23,27,123,100,,STATUS_FINAL,Sacramento Kings,1,23
+401705165,2025-01-20,2025,2,Charlotte Hornets,Dallas Mavericks,30,6,110,105,,STATUS_FINAL,Charlotte Hornets,1,5
+401705166,2025-01-20,2025,2,Houston Rockets,Detroit Pistons,10,8,96,107,,STATUS_FINAL,Detroit Pistons,0,-11
+401705167,2025-01-20,2025,2,Memphis Grizzlies,Minnesota Timberwolves,29,16,108,106,,STATUS_FINAL,Memphis Grizzlies,1,2
+401705168,2025-01-20,2025,2,New York Knicks,Atlanta Hawks,18,1,119,110,,STATUS_FINAL,New York Knicks,1,9
+401705169,2025-01-20,2025,2,Cleveland Cavaliers,Phoenix Suns,5,21,118,92,,STATUS_FINAL,Cleveland Cavaliers,1,26
+401705170,2025-01-20,2025,2,Golden State Warriors,Boston Celtics,9,2,85,125,,STATUS_FINAL,Boston Celtics,0,-40
+401705171,2025-01-20,2025,2,New Orleans Pelicans,Utah Jazz,3,26,123,119,,STATUS_FINAL,New Orleans Pelicans,1,4
+401705177,2025-01-20,2025,2,LA Clippers,Chicago Bulls,12,4,99,112,,STATUS_FINAL,Chicago Bulls,0,-13
+401705172,2025-01-21,2025,2,Brooklyn Nets,New York Knicks,17,18,95,99,,STATUS_FINAL,New York Knicks,0,-4
+401705173,2025-01-21,2025,2,Miami Heat,Portland Trail Blazers,14,22,107,116,,STATUS_FINAL,Portland Trail Blazers,0,-9
+401705174,2025-01-21,2025,2,Toronto Raptors,Orlando Magic,28,19,109,93,,STATUS_FINAL,Toronto Raptors,1,16
+401705175,2025-01-21,2025,2,Denver Nuggets,Philadelphia 76ers,7,20,144,109,,STATUS_FINAL,Denver Nuggets,1,35
+401705176,2025-01-21,2025,2,Los Angeles Lakers,Washington Wizards,13,27,111,88,,STATUS_FINAL,Los Angeles Lakers,1,23
+401705178,2025-01-22,2025,2,Atlanta Hawks,Detroit Pistons,1,8,104,114,,STATUS_FINAL,Detroit Pistons,0,-10
+401705179,2025-01-22,2025,2,Brooklyn Nets,Phoenix Suns,17,21,84,108,,STATUS_FINAL,Phoenix Suns,0,-24
+401705180,2025-01-22,2025,2,Dallas Mavericks,Minnesota Timberwolves,6,16,114,115,,STATUS_FINAL,Minnesota Timberwolves,0,-1
+401705181,2025-01-22,2025,2,Houston Rockets,Cleveland Cavaliers,10,5,109,108,,STATUS_FINAL,Houston Rockets,1,1
+401705182,2025-01-22,2025,2,Memphis Grizzlies,Charlotte Hornets,29,30,132,120,,STATUS_FINAL,Memphis Grizzlies,1,12
+401705183,2025-01-22,2025,2,New Orleans Pelicans,Milwaukee Bucks,3,15,0,0,,STATUS_POSTPONED,,0,0
+401705184,2025-01-22,2025,2,Oklahoma City Thunder,Utah Jazz,25,26,123,114,,STATUS_FINAL,Oklahoma City Thunder,1,9
+401705185,2025-01-22,2025,2,Sacramento Kings,Golden State Warriors,23,9,123,117,,STATUS_FINAL,Sacramento Kings,1,6
+401705186,2025-01-22,2025,2,LA Clippers,Boston Celtics,12,2,113,117,,STATUS_FINAL,Boston Celtics,0,-4
+401705187,2025-01-23,2025,2,Indiana Pacers,San Antonio Spurs,11,24,110,140,,STATUS_FINAL,San Antonio Spurs,0,-30
+401705188,2025-01-23,2025,2,Orlando Magic,Portland Trail Blazers,19,22,79,101,,STATUS_FINAL,Portland Trail Blazers,0,-22
+401705189,2025-01-23,2025,2,Atlanta Hawks,Toronto Raptors,1,28,119,122,,STATUS_FINAL,Toronto Raptors,0,-3
+401705190,2025-01-23,2025,2,Milwaukee Bucks,Miami Heat,15,14,125,96,,STATUS_FINAL,Milwaukee Bucks,1,29
+401705191,2025-01-23,2025,2,Oklahoma City Thunder,Dallas Mavericks,25,6,115,121,,STATUS_FINAL,Dallas Mavericks,0,-6
+401705192,2025-01-23,2025,2,Denver Nuggets,Sacramento Kings,7,23,132,123,,STATUS_FINAL,Denver Nuggets,1,9
+401705194,2025-01-23,2025,2,Golden State Warriors,Chicago Bulls,9,4,131,106,,STATUS_FINAL,Golden State Warriors,1,25
+401705195,2025-01-23,2025,2,Los Angeles Lakers,Boston Celtics,13,2,117,96,,STATUS_FINAL,Los Angeles Lakers,1,21
+401705549,2025-01-23,2025,2,LA Clippers,Washington Wizards,12,27,110,93,,STATUS_FINAL,LA Clippers,1,17
+401705196,2025-01-24,2025,2,Charlotte Hornets,Portland Trail Blazers,30,22,97,102,,STATUS_FINAL,Portland Trail Blazers,0,-5
+401705197,2025-01-24,2025,2,Philadelphia 76ers,Cleveland Cavaliers,20,5,132,129,,STATUS_FINAL,Philadelphia 76ers,1,3
+401705198,2025-01-24,2025,2,Memphis Grizzlies,New Orleans Pelicans,29,3,139,126,,STATUS_FINAL,Memphis Grizzlies,1,13
+401705199,2025-01-25,2025,2,San Antonio Spurs,Indiana Pacers,24,11,98,136,,STATUS_FINAL,Indiana Pacers,0,-38
+401705200,2025-01-25,2025,2,Minnesota Timberwolves,Denver Nuggets,16,7,133,104,,STATUS_FINAL,Minnesota Timberwolves,1,29
+401705201,2025-01-25,2025,2,Dallas Mavericks,Boston Celtics,6,2,107,122,,STATUS_FINAL,Boston Celtics,0,-15
+401705202,2025-01-25,2025,2,Brooklyn Nets,Miami Heat,17,14,97,106,,STATUS_FINAL,Miami Heat,0,-9
+401705203,2025-01-25,2025,2,Charlotte Hornets,New Orleans Pelicans,30,3,123,92,,STATUS_FINAL,Charlotte Hornets,1,31
+401705204,2025-01-25,2025,2,Orlando Magic,Detroit Pistons,19,8,121,113,,STATUS_FINAL,Orlando Magic,1,8
+401705205,2025-01-25,2025,2,Atlanta Hawks,Toronto Raptors,1,28,94,117,,STATUS_FINAL,Toronto Raptors,0,-23
+401705206,2025-01-25,2025,2,Cleveland Cavaliers,Houston Rockets,5,10,131,135,,STATUS_FINAL,Houston Rockets,0,-4
+401705207,2025-01-25,2025,2,New York Knicks,Sacramento Kings,18,23,143,120,,STATUS_FINAL,New York Knicks,1,23
+401705208,2025-01-25,2025,2,Chicago Bulls,Philadelphia 76ers,4,20,97,109,,STATUS_FINAL,Philadelphia 76ers,0,-12
+401705209,2025-01-25,2025,2,Memphis Grizzlies,Utah Jazz,29,26,125,103,,STATUS_FINAL,Memphis Grizzlies,1,22
+401705210,2025-01-25,2025,2,Golden State Warriors,Los Angeles Lakers,9,13,108,118,,STATUS_FINAL,Los Angeles Lakers,0,-10
+401705211,2025-01-25,2025,2,Phoenix Suns,Washington Wizards,21,27,119,109,,STATUS_FINAL,Phoenix Suns,1,10
+401705212,2025-01-25,2025,2,LA Clippers,Milwaukee Bucks,12,15,127,117,,STATUS_FINAL,LA Clippers,1,10
+401705213,2025-01-26,2025,2,Portland Trail Blazers,Oklahoma City Thunder,22,25,108,118,,STATUS_FINAL,Oklahoma City Thunder,0,-10
+401705214,2025-01-27,2025,2,Charlotte Hornets,Los Angeles Lakers,30,13,107,112,,STATUS_FINAL,Los Angeles Lakers,0,-5
+401705215,2025-01-27,2025,2,Cleveland Cavaliers,Detroit Pistons,5,8,110,91,,STATUS_FINAL,Cleveland Cavaliers,1,19
+401705216,2025-01-27,2025,2,Boston Celtics,Houston Rockets,2,10,112,114,,STATUS_FINAL,Houston Rockets,0,-2
+401705217,2025-01-27,2025,2,Brooklyn Nets,Sacramento Kings,17,23,96,110,,STATUS_FINAL,Sacramento Kings,0,-14
+401705218,2025-01-27,2025,2,Miami Heat,Orlando Magic,14,19,125,119,,STATUS_FINAL,Miami Heat,1,6
+401705219,2025-01-27,2025,2,New York Knicks,Memphis Grizzlies,18,29,143,106,,STATUS_FINAL,New York Knicks,1,37
+401705220,2025-01-27,2025,2,Toronto Raptors,New Orleans Pelicans,28,3,113,104,,STATUS_FINAL,Toronto Raptors,1,9
+401705221,2025-01-27,2025,2,Chicago Bulls,Denver Nuggets,4,7,129,121,,STATUS_FINAL,Chicago Bulls,1,8
+401705222,2025-01-27,2025,2,Minnesota Timberwolves,Atlanta Hawks,16,1,100,92,,STATUS_FINAL,Minnesota Timberwolves,1,8
+401705223,2025-01-27,2025,2,Dallas Mavericks,Washington Wizards,6,27,130,108,,STATUS_FINAL,Dallas Mavericks,1,22
+401705224,2025-01-27,2025,2,Utah Jazz,Milwaukee Bucks,26,15,110,125,,STATUS_FINAL,Milwaukee Bucks,0,-15
+401705225,2025-01-27,2025,2,Phoenix Suns,LA Clippers,21,12,111,109,,STATUS_FINAL,Phoenix Suns,1,2
+401705226,2025-01-28,2025,2,Philadelphia 76ers,Los Angeles Lakers,20,13,118,104,,STATUS_FINAL,Philadelphia 76ers,1,14
+401705227,2025-01-28,2025,2,Golden State Warriors,Utah Jazz,9,26,114,103,,STATUS_FINAL,Golden State Warriors,1,11
+401705228,2025-01-28,2025,2,Portland Trail Blazers,Milwaukee Bucks,22,15,125,112,,STATUS_FINAL,Portland Trail Blazers,1,13
+401748705,2025-01-28,2025,2,Atlanta Hawks,Houston Rockets,1,10,96,100,,STATUS_FINAL,Houston Rockets,0,-4
+401705229,2025-01-29,2025,2,Charlotte Hornets,Brooklyn Nets,30,17,83,104,,STATUS_FINAL,Brooklyn Nets,0,-21
+401705230,2025-01-29,2025,2,Indiana Pacers,Detroit Pistons,11,8,133,119,,STATUS_FINAL,Indiana Pacers,1,14
+401705231,2025-01-29,2025,2,Washington Wizards,Toronto Raptors,27,28,82,106,,STATUS_FINAL,Toronto Raptors,0,-24
+401705232,2025-01-29,2025,2,Boston Celtics,Chicago Bulls,2,4,122,100,,STATUS_FINAL,Boston Celtics,1,22
+401705233,2025-01-29,2025,2,Miami Heat,Cleveland Cavaliers,14,5,106,126,,STATUS_FINAL,Cleveland Cavaliers,0,-20
+401705234,2025-01-29,2025,2,New York Knicks,Denver Nuggets,18,7,122,112,,STATUS_FINAL,New York Knicks,1,10
+401705235,2025-01-29,2025,2,Philadelphia 76ers,Sacramento Kings,20,23,117,104,,STATUS_FINAL,Philadelphia 76ers,1,13
+401705236,2025-01-29,2025,2,New Orleans Pelicans,Dallas Mavericks,3,6,136,137,,STATUS_FINAL,Dallas Mavericks,0,-1
+401705237,2025-01-29,2025,2,San Antonio Spurs,LA Clippers,24,12,116,128,,STATUS_FINAL,LA Clippers,0,-12
+401705238,2025-01-29,2025,2,Phoenix Suns,Minnesota Timberwolves,21,16,113,121,,STATUS_FINAL,Minnesota Timberwolves,0,-8
+401705239,2025-01-29,2025,2,Golden State Warriors,Oklahoma City Thunder,9,25,116,109,,STATUS_FINAL,Golden State Warriors,1,7
+401705240,2025-01-30,2025,2,Washington Wizards,Los Angeles Lakers,27,13,96,134,,STATUS_FINAL,Los Angeles Lakers,0,-38
+401705241,2025-01-30,2025,2,Cleveland Cavaliers,Atlanta Hawks,5,1,137,115,,STATUS_FINAL,Cleveland Cavaliers,1,22
+401705242,2025-01-30,2025,2,Memphis Grizzlies,Houston Rockets,29,10,120,119,,STATUS_FINAL,Memphis Grizzlies,1,1
+401705243,2025-01-30,2025,2,Utah Jazz,Minnesota Timberwolves,26,16,113,138,,STATUS_FINAL,Minnesota Timberwolves,0,-25
+401705244,2025-01-30,2025,2,Portland Trail Blazers,Orlando Magic,22,19,119,90,,STATUS_FINAL,Portland Trail Blazers,1,29
+401705245,2025-01-31,2025,2,Charlotte Hornets,LA Clippers,30,12,104,112,,STATUS_FINAL,LA Clippers,0,-8
+401705246,2025-01-31,2025,2,Detroit Pistons,Dallas Mavericks,8,6,117,102,,STATUS_FINAL,Detroit Pistons,1,15
+401705247,2025-01-31,2025,2,Philadelphia 76ers,Denver Nuggets,20,7,134,137,,STATUS_FINAL,Denver Nuggets,0,-3
+401705248,2025-01-31,2025,2,Toronto Raptors,Chicago Bulls,28,4,106,122,,STATUS_FINAL,Chicago Bulls,0,-16
+401705249,2025-01-31,2025,2,New Orleans Pelicans,Boston Celtics,3,2,116,118,,STATUS_FINAL,Boston Celtics,0,-2
+401705250,2025-01-31,2025,2,San Antonio Spurs,Milwaukee Bucks,24,15,144,118,,STATUS_FINAL,San Antonio Spurs,1,26
+401705251,2025-01-31,2025,2,Golden State Warriors,Phoenix Suns,9,21,105,130,,STATUS_FINAL,Phoenix Suns,0,-25
+401705252,2025-02-01,2025,2,Indiana Pacers,Atlanta Hawks,11,1,132,127,,STATUS_FINAL,Indiana Pacers,1,5
+401705253,2025-02-01,2025,2,Utah Jazz,Orlando Magic,26,19,113,99,,STATUS_FINAL,Utah Jazz,1,14
+401705254,2025-02-01,2025,2,Charlotte Hornets,Denver Nuggets,30,7,104,107,,STATUS_FINAL,Denver Nuggets,0,-3
+401705255,2025-02-01,2025,2,Houston Rockets,Brooklyn Nets,10,17,98,110,,STATUS_FINAL,Brooklyn Nets,0,-12
+401705256,2025-02-01,2025,2,Minnesota Timberwolves,Washington Wizards,16,27,103,105,,STATUS_FINAL,Washington Wizards,0,-2
+401705257,2025-02-01,2025,2,Oklahoma City Thunder,Sacramento Kings,25,23,144,110,,STATUS_FINAL,Oklahoma City Thunder,1,34
+401705258,2025-02-01,2025,2,New York Knicks,Los Angeles Lakers,18,13,112,128,,STATUS_FINAL,Los Angeles Lakers,0,-16
+401705259,2025-02-01,2025,2,San Antonio Spurs,Miami Heat,24,14,103,105,,STATUS_FINAL,Miami Heat,0,-2
+401705260,2025-02-01,2025,2,Portland Trail Blazers,Phoenix Suns,22,21,127,108,,STATUS_FINAL,Portland Trail Blazers,1,19
+401705261,2025-02-02,2025,2,Detroit Pistons,Chicago Bulls,8,4,127,119,,STATUS_FINAL,Detroit Pistons,1,8
+401705262,2025-02-02,2025,2,Cleveland Cavaliers,Dallas Mavericks,5,6,144,101,,STATUS_FINAL,Cleveland Cavaliers,1,43
+401705263,2025-02-02,2025,2,Toronto Raptors,LA Clippers,28,12,115,108,,STATUS_FINAL,Toronto Raptors,1,7
+401705264,2025-02-02,2025,2,Philadelphia 76ers,Boston Celtics,20,2,110,118,,STATUS_FINAL,Boston Celtics,0,-8
+401705265,2025-02-02,2025,2,Milwaukee Bucks,Memphis Grizzlies,15,29,119,132,,STATUS_FINAL,Memphis Grizzlies,0,-13
+401705266,2025-02-03,2025,2,Charlotte Hornets,Washington Wizards,30,27,114,124,,STATUS_FINAL,Washington Wizards,0,-10
+401705267,2025-02-03,2025,2,Detroit Pistons,Atlanta Hawks,8,1,130,132,,STATUS_FINAL,Atlanta Hawks,0,-2
+401705268,2025-02-03,2025,2,New York Knicks,Houston Rockets,18,10,124,118,,STATUS_FINAL,New York Knicks,1,6
+401705269,2025-02-03,2025,2,Memphis Grizzlies,San Antonio Spurs,29,24,128,109,,STATUS_FINAL,Memphis Grizzlies,1,19
+401705270,2025-02-03,2025,2,Minnesota Timberwolves,Sacramento Kings,16,23,114,116,,STATUS_FINAL,Sacramento Kings,0,-2
+401705271,2025-02-03,2025,2,Oklahoma City Thunder,Milwaukee Bucks,25,15,125,96,,STATUS_FINAL,Oklahoma City Thunder,1,29
+401705272,2025-02-03,2025,2,Denver Nuggets,New Orleans Pelicans,7,3,125,113,,STATUS_FINAL,Denver Nuggets,1,12
+401705273,2025-02-03,2025,2,Utah Jazz,Indiana Pacers,26,11,111,112,,STATUS_FINAL,Indiana Pacers,0,-1
+401705274,2025-02-03,2025,2,Golden State Warriors,Orlando Magic,9,19,104,99,,STATUS_FINAL,Golden State Warriors,1,5
+401705275,2025-02-03,2025,2,Portland Trail Blazers,Phoenix Suns,22,21,121,119,,STATUS_FINAL,Portland Trail Blazers,1,2
+401705276,2025-02-04,2025,2,Cleveland Cavaliers,Boston Celtics,5,2,105,112,,STATUS_FINAL,Boston Celtics,0,-7
+401705277,2025-02-04,2025,2,Brooklyn Nets,Houston Rockets,17,10,99,97,,STATUS_FINAL,Brooklyn Nets,1,2
+401705278,2025-02-04,2025,2,Philadelphia 76ers,Dallas Mavericks,20,6,118,116,,STATUS_FINAL,Philadelphia 76ers,1,2
+401705279,2025-02-04,2025,2,Toronto Raptors,New York Knicks,28,18,115,121,,STATUS_FINAL,New York Knicks,0,-6
+401705280,2025-02-04,2025,2,Chicago Bulls,Miami Heat,4,14,133,124,,STATUS_FINAL,Chicago Bulls,1,9
+401705281,2025-02-04,2025,2,LA Clippers,Los Angeles Lakers,12,13,97,122,,STATUS_FINAL,Los Angeles Lakers,0,-25
+401705282,2025-02-04,2025,2,Portland Trail Blazers,Indiana Pacers,22,11,112,89,,STATUS_FINAL,Portland Trail Blazers,1,23
+401705283,2025-02-05,2025,2,Charlotte Hornets,Milwaukee Bucks,30,15,102,112,,STATUS_FINAL,Milwaukee Bucks,0,-10
+401705284,2025-02-05,2025,2,Detroit Pistons,Cleveland Cavaliers,8,5,115,118,,STATUS_FINAL,Cleveland Cavaliers,0,-3
+401705285,2025-02-05,2025,2,Atlanta Hawks,San Antonio Spurs,1,24,125,126,,STATUS_FINAL,San Antonio Spurs,0,-1
+401705286,2025-02-05,2025,2,Brooklyn Nets,Washington Wizards,17,27,102,119,,STATUS_FINAL,Washington Wizards,0,-17
+401705287,2025-02-05,2025,2,Philadelphia 76ers,Miami Heat,20,14,101,108,,STATUS_FINAL,Miami Heat,0,-7
+401705288,2025-02-05,2025,2,Toronto Raptors,Memphis Grizzlies,28,29,107,138,,STATUS_FINAL,Memphis Grizzlies,0,-31
+401705289,2025-02-05,2025,2,Minnesota Timberwolves,Chicago Bulls,16,4,127,108,,STATUS_FINAL,Minnesota Timberwolves,1,19
+401705290,2025-02-05,2025,2,Oklahoma City Thunder,Phoenix Suns,25,21,140,109,,STATUS_FINAL,Oklahoma City Thunder,1,31
+401705291,2025-02-05,2025,2,Utah Jazz,Golden State Warriors,26,9,131,128,,STATUS_FINAL,Utah Jazz,1,3
+401705292,2025-02-05,2025,2,Denver Nuggets,New Orleans Pelicans,7,3,144,119,,STATUS_FINAL,Denver Nuggets,1,25
+401705293,2025-02-05,2025,2,Sacramento Kings,Orlando Magic,23,19,111,130,,STATUS_FINAL,Orlando Magic,0,-19
+401705294,2025-02-06,2025,2,Boston Celtics,Dallas Mavericks,2,6,120,127,,STATUS_FINAL,Dallas Mavericks,0,-7
+401705295,2025-02-06,2025,2,Minnesota Timberwolves,Houston Rockets,16,10,127,114,,STATUS_FINAL,Minnesota Timberwolves,1,13
+401705296,2025-02-06,2025,2,Denver Nuggets,Orlando Magic,7,19,112,90,,STATUS_FINAL,Denver Nuggets,1,22
+401705297,2025-02-06,2025,2,Los Angeles Lakers,Golden State Warriors,13,9,120,112,,STATUS_FINAL,Los Angeles Lakers,1,8
+401705298,2025-02-06,2025,2,Portland Trail Blazers,Sacramento Kings,22,23,108,102,,STATUS_FINAL,Portland Trail Blazers,1,6
+401705299,2025-02-06,2025,2,LA Clippers,Indiana Pacers,12,11,112,119,,STATUS_FINAL,Indiana Pacers,0,-7
+401705300,2025-02-07,2025,2,Charlotte Hornets,San Antonio Spurs,30,24,117,116,,STATUS_FINAL,Charlotte Hornets,1,1
+401705301,2025-02-07,2025,2,Washington Wizards,Cleveland Cavaliers,27,5,124,134,,STATUS_FINAL,Cleveland Cavaliers,0,-10
+401705302,2025-02-07,2025,2,Atlanta Hawks,Milwaukee Bucks,1,15,115,110,,STATUS_FINAL,Atlanta Hawks,1,5
+401705303,2025-02-07,2025,2,Brooklyn Nets,Miami Heat,17,14,102,86,,STATUS_FINAL,Brooklyn Nets,1,16
+401705304,2025-02-07,2025,2,Detroit Pistons,Philadelphia 76ers,8,20,125,112,,STATUS_FINAL,Detroit Pistons,1,13
+401705305,2025-02-07,2025,2,Oklahoma City Thunder,Toronto Raptors,25,28,121,109,,STATUS_FINAL,Oklahoma City Thunder,1,12
+401705306,2025-02-07,2025,2,Phoenix Suns,Utah Jazz,21,26,135,127,,STATUS_FINAL,Phoenix Suns,1,8
+401705307,2025-02-08,2025,2,Dallas Mavericks,Houston Rockets,6,10,116,105,,STATUS_FINAL,Dallas Mavericks,1,11
+401705308,2025-02-08,2025,2,Los Angeles Lakers,Indiana Pacers,13,11,124,117,,STATUS_FINAL,Los Angeles Lakers,1,7
+401705309,2025-02-08,2025,2,Orlando Magic,San Antonio Spurs,19,24,112,111,,STATUS_FINAL,Orlando Magic,1,1
+401705310,2025-02-08,2025,2,Washington Wizards,Atlanta Hawks,27,1,111,125,,STATUS_FINAL,Atlanta Hawks,0,-14
+401705311,2025-02-08,2025,2,Chicago Bulls,Golden State Warriors,4,9,111,132,,STATUS_FINAL,Golden State Warriors,0,-21
+401705312,2025-02-08,2025,2,Memphis Grizzlies,Oklahoma City Thunder,29,25,112,125,,STATUS_FINAL,Oklahoma City Thunder,0,-13
+401705313,2025-02-08,2025,2,Minnesota Timberwolves,Portland Trail Blazers,16,22,114,98,,STATUS_FINAL,Minnesota Timberwolves,1,16
+401705314,2025-02-08,2025,2,New York Knicks,Boston Celtics,18,2,104,131,,STATUS_FINAL,Boston Celtics,0,-27
+401705315,2025-02-08,2025,2,Phoenix Suns,Denver Nuggets,21,7,105,122,,STATUS_FINAL,Denver Nuggets,0,-17
+401705316,2025-02-08,2025,2,Sacramento Kings,New Orleans Pelicans,23,3,123,118,,STATUS_FINAL,Sacramento Kings,1,5
+401705317,2025-02-08,2025,2,LA Clippers,Utah Jazz,12,26,130,110,,STATUS_FINAL,LA Clippers,1,20
+401705318,2025-02-09,2025,2,Detroit Pistons,Charlotte Hornets,8,30,112,102,,STATUS_FINAL,Detroit Pistons,1,10
+401705319,2025-02-09,2025,2,Houston Rockets,Toronto Raptors,10,28,94,87,,STATUS_FINAL,Houston Rockets,1,7
+401705320,2025-02-09,2025,2,Milwaukee Bucks,Philadelphia 76ers,15,20,135,127,,STATUS_FINAL,Milwaukee Bucks,1,8
+401705321,2025-02-10,2025,2,Cleveland Cavaliers,Minnesota Timberwolves,5,16,128,107,,STATUS_FINAL,Cleveland Cavaliers,1,21
+401705322,2025-02-10,2025,2,Orlando Magic,Atlanta Hawks,19,1,106,112,,STATUS_FINAL,Atlanta Hawks,0,-6
+401705323,2025-02-10,2025,2,Washington Wizards,San Antonio Spurs,27,24,121,131,,STATUS_FINAL,San Antonio Spurs,0,-10
+401705324,2025-02-10,2025,2,Brooklyn Nets,Charlotte Hornets,17,30,97,89,,STATUS_FINAL,Brooklyn Nets,1,8
+401705325,2025-02-10,2025,2,Miami Heat,Boston Celtics,14,2,85,103,,STATUS_FINAL,Boston Celtics,0,-18
+401705326,2025-02-10,2025,2,Milwaukee Bucks,Golden State Warriors,15,9,111,125,,STATUS_FINAL,Golden State Warriors,0,-14
+401705327,2025-02-10,2025,2,Oklahoma City Thunder,New Orleans Pelicans,25,3,137,101,,STATUS_FINAL,Oklahoma City Thunder,1,36
+401705328,2025-02-10,2025,2,Dallas Mavericks,Sacramento Kings,6,23,128,129,,STATUS_FINAL,Sacramento Kings,0,-1
+401705329,2025-02-10,2025,2,Denver Nuggets,Portland Trail Blazers,7,22,146,117,,STATUS_FINAL,Denver Nuggets,1,29
+401705334,2025-02-10,2025,2,Los Angeles Lakers,Utah Jazz,13,26,132,113,,STATUS_FINAL,Los Angeles Lakers,1,19
+401705330,2025-02-11,2025,2,Philadelphia 76ers,Toronto Raptors,20,28,103,106,,STATUS_FINAL,Toronto Raptors,0,-3
+401705331,2025-02-11,2025,2,Indiana Pacers,New York Knicks,11,18,115,128,,STATUS_FINAL,New York Knicks,0,-13
+401705332,2025-02-11,2025,2,Chicago Bulls,Detroit Pistons,4,8,92,132,,STATUS_FINAL,Detroit Pistons,0,-40
+401705333,2025-02-11,2025,2,Phoenix Suns,Memphis Grizzlies,21,29,112,119,,STATUS_FINAL,Memphis Grizzlies,0,-7
+401705335,2025-02-12,2025,2,Boston Celtics,San Antonio Spurs,2,24,116,103,,STATUS_FINAL,Boston Celtics,1,13
+401705336,2025-02-12,2025,2,Orlando Magic,Charlotte Hornets,19,30,102,86,,STATUS_FINAL,Orlando Magic,1,16
+401705337,2025-02-12,2025,2,Washington Wizards,Indiana Pacers,27,11,130,134,,STATUS_FINAL,Indiana Pacers,0,-4
+401705338,2025-02-12,2025,2,Brooklyn Nets,Philadelphia 76ers,17,20,100,96,,STATUS_FINAL,Brooklyn Nets,1,4
+401705339,2025-02-12,2025,2,New York Knicks,Atlanta Hawks,18,1,149,148,,STATUS_FINAL,New York Knicks,1,1
+401705340,2025-02-12,2025,2,Toronto Raptors,Cleveland Cavaliers,28,5,108,131,,STATUS_FINAL,Cleveland Cavaliers,0,-23
+401705341,2025-02-12,2025,2,Chicago Bulls,Detroit Pistons,4,8,110,128,,STATUS_FINAL,Detroit Pistons,0,-18
+401705342,2025-02-12,2025,2,Minnesota Timberwolves,Milwaukee Bucks,16,15,101,103,,STATUS_FINAL,Milwaukee Bucks,0,-2
+401705343,2025-02-12,2025,2,New Orleans Pelicans,Sacramento Kings,3,23,111,119,,STATUS_FINAL,Sacramento Kings,0,-8
+401705344,2025-02-12,2025,2,Oklahoma City Thunder,Miami Heat,25,14,115,101,,STATUS_FINAL,Oklahoma City Thunder,1,14
+401705345,2025-02-12,2025,2,Houston Rockets,Phoenix Suns,10,21,119,111,,STATUS_FINAL,Houston Rockets,1,8
+401705346,2025-02-12,2025,2,Denver Nuggets,Portland Trail Blazers,7,22,132,121,,STATUS_FINAL,Denver Nuggets,1,11
+401705347,2025-02-12,2025,2,Utah Jazz,Los Angeles Lakers,26,13,131,119,,STATUS_FINAL,Utah Jazz,1,12
+401705348,2025-02-12,2025,2,Dallas Mavericks,Golden State Warriors,6,9,111,107,,STATUS_FINAL,Dallas Mavericks,1,4
+401705349,2025-02-12,2025,2,LA Clippers,Memphis Grizzlies,12,29,128,114,,STATUS_FINAL,LA Clippers,1,14
+401705350,2025-02-13,2025,2,Houston Rockets,Golden State Warriors,10,9,98,105,,STATUS_FINAL,Golden State Warriors,0,-7
+401705351,2025-02-13,2025,2,New Orleans Pelicans,Sacramento Kings,3,23,140,133,,STATUS_FINAL,New Orleans Pelicans,1,7
+401705352,2025-02-13,2025,2,Dallas Mavericks,Miami Heat,6,14,118,113,,STATUS_FINAL,Dallas Mavericks,1,5
+401705353,2025-02-13,2025,2,Minnesota Timberwolves,Oklahoma City Thunder,16,25,116,101,,STATUS_FINAL,Minnesota Timberwolves,1,15
+401705570,2025-02-13,2025,2,Utah Jazz,LA Clippers,26,12,116,120,,STATUS_FINAL,LA Clippers,0,-4
+401748704,2025-02-19,2025,2,Los Angeles Lakers,Charlotte Hornets,13,30,97,100,,STATUS_FINAL,Charlotte Hornets,0,-3
+401705354,2025-02-20,2025,2,Indiana Pacers,Memphis Grizzlies,11,29,127,113,,STATUS_FINAL,Indiana Pacers,1,14
+401705355,2025-02-20,2025,2,Philadelphia 76ers,Boston Celtics,20,2,104,124,,STATUS_FINAL,Boston Celtics,0,-20
+401705356,2025-02-20,2025,2,Atlanta Hawks,Orlando Magic,1,19,108,114,,STATUS_FINAL,Orlando Magic,0,-6
+401705357,2025-02-20,2025,2,Brooklyn Nets,Cleveland Cavaliers,17,5,97,110,,STATUS_FINAL,Cleveland Cavaliers,0,-13
+401705358,2025-02-20,2025,2,New York Knicks,Chicago Bulls,18,4,113,111,,STATUS_FINAL,New York Knicks,1,2
+401705359,2025-02-20,2025,2,Milwaukee Bucks,LA Clippers,15,12,116,110,,STATUS_FINAL,Milwaukee Bucks,1,6
+401705360,2025-02-20,2025,2,Denver Nuggets,Charlotte Hornets,7,30,129,115,,STATUS_FINAL,Denver Nuggets,1,14
+401705361,2025-02-20,2025,2,San Antonio Spurs,Phoenix Suns,24,21,120,109,,STATUS_FINAL,San Antonio Spurs,1,11
+401705362,2025-02-20,2025,2,Portland Trail Blazers,Los Angeles Lakers,22,13,102,110,,STATUS_FINAL,Los Angeles Lakers,0,-8
+401705363,2025-02-21,2025,2,Cleveland Cavaliers,New York Knicks,5,18,142,105,,STATUS_FINAL,Cleveland Cavaliers,1,37
+401705364,2025-02-21,2025,2,Orlando Magic,Memphis Grizzlies,19,29,104,105,,STATUS_FINAL,Memphis Grizzlies,0,-1
+401705365,2025-02-21,2025,2,Washington Wizards,Milwaukee Bucks,27,15,101,104,,STATUS_FINAL,Milwaukee Bucks,0,-3
+401705366,2025-02-21,2025,2,Toronto Raptors,Miami Heat,28,14,111,120,,STATUS_FINAL,Miami Heat,0,-9
+401705367,2025-02-21,2025,2,Houston Rockets,Minnesota Timberwolves,10,16,121,115,,STATUS_FINAL,Houston Rockets,1,6
+401705368,2025-02-21,2025,2,San Antonio Spurs,Detroit Pistons,24,8,110,125,,STATUS_FINAL,Detroit Pistons,0,-15
+401705369,2025-02-21,2025,2,Dallas Mavericks,New Orleans Pelicans,6,3,111,103,,STATUS_FINAL,Dallas Mavericks,1,8
+401705370,2025-02-21,2025,2,Utah Jazz,Oklahoma City Thunder,26,25,107,130,,STATUS_FINAL,Oklahoma City Thunder,0,-23
+401705371,2025-02-21,2025,2,Sacramento Kings,Golden State Warriors,23,9,108,132,,STATUS_FINAL,Golden State Warriors,0,-24
+401705372,2025-02-22,2025,2,Chicago Bulls,Phoenix Suns,4,21,117,121,,STATUS_FINAL,Phoenix Suns,0,-4
+401705373,2025-02-22,2025,2,Philadelphia 76ers,Brooklyn Nets,20,17,103,105,,STATUS_FINAL,Brooklyn Nets,0,-2
+401705374,2025-02-22,2025,2,Denver Nuggets,Los Angeles Lakers,7,13,100,123,,STATUS_FINAL,Los Angeles Lakers,0,-23
+401705375,2025-02-22,2025,2,Utah Jazz,Houston Rockets,26,10,124,115,,STATUS_FINAL,Utah Jazz,1,9
+401705376,2025-02-22,2025,2,Portland Trail Blazers,Charlotte Hornets,22,30,141,88,,STATUS_FINAL,Portland Trail Blazers,1,53
+401705377,2025-02-23,2025,2,Boston Celtics,New York Knicks,2,18,118,105,,STATUS_FINAL,Boston Celtics,1,13
+401705378,2025-02-23,2025,2,Golden State Warriors,Dallas Mavericks,9,6,126,102,,STATUS_FINAL,Golden State Warriors,1,24
+401705379,2025-02-23,2025,2,Indiana Pacers,LA Clippers,11,12,129,111,,STATUS_FINAL,Indiana Pacers,1,18
+401705380,2025-02-23,2025,2,Atlanta Hawks,Detroit Pistons,1,8,143,148,,STATUS_FINAL,Detroit Pistons,0,-5
+401705381,2025-02-23,2025,2,Orlando Magic,Washington Wizards,19,27,110,90,,STATUS_FINAL,Orlando Magic,1,20
+401705382,2025-02-23,2025,2,Toronto Raptors,Phoenix Suns,28,21,127,109,,STATUS_FINAL,Toronto Raptors,1,18
+401705383,2025-02-23,2025,2,Milwaukee Bucks,Miami Heat,15,14,120,113,,STATUS_FINAL,Milwaukee Bucks,1,7
+401705384,2025-02-23,2025,2,New Orleans Pelicans,San Antonio Spurs,3,24,114,96,,STATUS_FINAL,New Orleans Pelicans,1,18
+401705385,2025-02-23,2025,2,Cleveland Cavaliers,Memphis Grizzlies,5,29,129,123,,STATUS_FINAL,Cleveland Cavaliers,1,6
+401705386,2025-02-23,2025,2,Minnesota Timberwolves,Oklahoma City Thunder,16,25,123,130,,STATUS_FINAL,Oklahoma City Thunder,0,-7
+401705387,2025-02-24,2025,2,Detroit Pistons,LA Clippers,8,12,106,97,,STATUS_FINAL,Detroit Pistons,1,9
+401705388,2025-02-24,2025,2,Indiana Pacers,Denver Nuggets,11,7,116,125,,STATUS_FINAL,Denver Nuggets,0,-9
+401705389,2025-02-24,2025,2,Philadelphia 76ers,Chicago Bulls,20,4,110,142,,STATUS_FINAL,Chicago Bulls,0,-32
+401705390,2025-02-24,2025,2,Washington Wizards,Brooklyn Nets,27,17,107,99,,STATUS_FINAL,Washington Wizards,1,8
+401705391,2025-02-24,2025,2,Atlanta Hawks,Miami Heat,1,14,98,86,,STATUS_FINAL,Atlanta Hawks,1,12
+401705392,2025-02-24,2025,2,Oklahoma City Thunder,Minnesota Timberwolves,25,16,128,131,,STATUS_FINAL,Minnesota Timberwolves,0,-3
+401705393,2025-02-24,2025,2,Utah Jazz,Portland Trail Blazers,26,22,112,114,,STATUS_FINAL,Portland Trail Blazers,0,-2
+401705394,2025-02-24,2025,2,Sacramento Kings,Charlotte Hornets,23,30,130,88,,STATUS_FINAL,Sacramento Kings,1,42
+401705395,2025-02-25,2025,2,Toronto Raptors,Boston Celtics,28,2,101,111,,STATUS_FINAL,Boston Celtics,0,-10
+401705396,2025-02-25,2025,2,Orlando Magic,Cleveland Cavaliers,19,5,82,122,,STATUS_FINAL,Cleveland Cavaliers,0,-40
+401705397,2025-02-25,2025,2,Houston Rockets,Milwaukee Bucks,10,15,100,97,,STATUS_FINAL,Houston Rockets,1,3
+401705398,2025-02-25,2025,2,Memphis Grizzlies,Phoenix Suns,29,21,151,148,,STATUS_FINAL,Memphis Grizzlies,1,3
+401705399,2025-02-25,2025,2,New Orleans Pelicans,San Antonio Spurs,3,24,109,103,,STATUS_FINAL,New Orleans Pelicans,1,6
+401705400,2025-02-25,2025,2,Golden State Warriors,Charlotte Hornets,9,30,128,92,,STATUS_FINAL,Golden State Warriors,1,36
+401705401,2025-02-25,2025,2,Los Angeles Lakers,Dallas Mavericks,13,6,107,99,,STATUS_FINAL,Los Angeles Lakers,1,8
+401705402,2025-02-26,2025,2,Detroit Pistons,Boston Celtics,8,2,117,97,,STATUS_FINAL,Detroit Pistons,1,20
+401705403,2025-02-26,2025,2,Indiana Pacers,Toronto Raptors,11,28,111,91,,STATUS_FINAL,Indiana Pacers,1,20
+401705404,2025-02-26,2025,2,New York Knicks,Philadelphia 76ers,18,20,110,105,,STATUS_FINAL,New York Knicks,1,5
+401705405,2025-02-26,2025,2,Washington Wizards,Portland Trail Blazers,27,22,121,129,,STATUS_FINAL,Portland Trail Blazers,0,-8
+401705406,2025-02-26,2025,2,Brooklyn Nets,Oklahoma City Thunder,17,25,121,129,,STATUS_FINAL,Oklahoma City Thunder,0,-8
+401705407,2025-02-26,2025,2,Miami Heat,Atlanta Hawks,14,1,131,109,,STATUS_FINAL,Miami Heat,1,22
+401705408,2025-02-26,2025,2,Chicago Bulls,LA Clippers,4,12,117,122,,STATUS_FINAL,LA Clippers,0,-5
+401705409,2025-02-26,2025,2,Utah Jazz,Sacramento Kings,26,23,101,118,,STATUS_FINAL,Sacramento Kings,0,-17
+401705410,2025-02-26,2025,2,Houston Rockets,San Antonio Spurs,10,24,118,106,,STATUS_FINAL,Houston Rockets,1,12
+401705411,2025-02-27,2025,2,Orlando Magic,Golden State Warriors,19,9,115,121,,STATUS_FINAL,Golden State Warriors,0,-6
+401705412,2025-02-27,2025,2,Milwaukee Bucks,Denver Nuggets,15,7,121,112,,STATUS_FINAL,Milwaukee Bucks,1,9
+401705413,2025-02-27,2025,2,Dallas Mavericks,Charlotte Hornets,6,30,103,96,,STATUS_FINAL,Dallas Mavericks,1,7
+401705414,2025-02-27,2025,2,Phoenix Suns,New Orleans Pelicans,21,3,116,124,,STATUS_FINAL,New Orleans Pelicans,0,-8
+401705415,2025-02-27,2025,2,Los Angeles Lakers,Minnesota Timberwolves,13,16,111,102,,STATUS_FINAL,Los Angeles Lakers,1,9
+401705416,2025-02-28,2025,2,Detroit Pistons,Denver Nuggets,8,7,119,134,,STATUS_FINAL,Denver Nuggets,0,-15
+401705417,2025-02-28,2025,2,Atlanta Hawks,Oklahoma City Thunder,1,25,119,135,,STATUS_FINAL,Oklahoma City Thunder,0,-16
+401705418,2025-02-28,2025,2,Boston Celtics,Cleveland Cavaliers,2,5,116,123,,STATUS_FINAL,Cleveland Cavaliers,0,-7
+401705419,2025-02-28,2025,2,Brooklyn Nets,Portland Trail Blazers,17,22,102,121,,STATUS_FINAL,Portland Trail Blazers,0,-19
+401705420,2025-02-28,2025,2,Miami Heat,Indiana Pacers,14,11,125,120,,STATUS_FINAL,Miami Heat,1,5
+401705421,2025-02-28,2025,2,Chicago Bulls,Toronto Raptors,4,28,125,115,,STATUS_FINAL,Chicago Bulls,1,10
+401705422,2025-02-28,2025,2,Memphis Grizzlies,New York Knicks,29,18,113,114,,STATUS_FINAL,New York Knicks,0,-1
+401705423,2025-02-28,2025,2,Phoenix Suns,New Orleans Pelicans,21,3,125,108,,STATUS_FINAL,Phoenix Suns,1,17
+401705424,2025-02-28,2025,2,Utah Jazz,Minnesota Timberwolves,26,16,117,116,,STATUS_FINAL,Utah Jazz,1,1
+401705425,2025-02-28,2025,2,Los Angeles Lakers,LA Clippers,13,12,106,102,,STATUS_FINAL,Los Angeles Lakers,1,4
+401705426,2025-03-01,2025,2,Charlotte Hornets,Washington Wizards,30,27,100,113,,STATUS_FINAL,Washington Wizards,0,-13
+401705427,2025-03-01,2025,2,Detroit Pistons,Brooklyn Nets,8,17,115,94,,STATUS_FINAL,Detroit Pistons,1,21
+401705428,2025-03-01,2025,2,Houston Rockets,Sacramento Kings,10,23,103,113,,STATUS_FINAL,Sacramento Kings,0,-10
+401705429,2025-03-01,2025,2,Memphis Grizzlies,San Antonio Spurs,29,24,128,130,,STATUS_FINAL,San Antonio Spurs,0,-2
+401705430,2025-03-01,2025,2,Philadelphia 76ers,Golden State Warriors,20,9,126,119,,STATUS_FINAL,Philadelphia 76ers,1,7
+401705431,2025-03-01,2025,2,Dallas Mavericks,Milwaukee Bucks,6,15,117,132,,STATUS_FINAL,Milwaukee Bucks,0,-15
+401705432,2025-03-02,2025,2,Boston Celtics,Denver Nuggets,2,7,110,103,,STATUS_FINAL,Boston Celtics,1,7
+401705433,2025-03-02,2025,2,Cleveland Cavaliers,Portland Trail Blazers,5,22,133,129,,STATUS_FINAL,Cleveland Cavaliers,1,4
+401705434,2025-03-02,2025,2,Indiana Pacers,Chicago Bulls,11,4,127,112,,STATUS_FINAL,Indiana Pacers,1,15
+401705435,2025-03-02,2025,2,Miami Heat,New York Knicks,14,18,112,116,,STATUS_FINAL,New York Knicks,0,-4
+401705436,2025-03-02,2025,2,Orlando Magic,Toronto Raptors,19,28,102,104,,STATUS_FINAL,Toronto Raptors,0,-2
+401705437,2025-03-02,2025,2,San Antonio Spurs,Oklahoma City Thunder,24,25,132,146,,STATUS_FINAL,Oklahoma City Thunder,0,-14
+401705438,2025-03-02,2025,2,Utah Jazz,New Orleans Pelicans,26,3,121,128,,STATUS_FINAL,New Orleans Pelicans,0,-7
+401705439,2025-03-02,2025,2,Phoenix Suns,Minnesota Timberwolves,21,16,98,116,,STATUS_FINAL,Minnesota Timberwolves,0,-18
+401705440,2025-03-02,2025,2,Los Angeles Lakers,LA Clippers,13,12,108,102,,STATUS_FINAL,Los Angeles Lakers,1,6
+401705441,2025-03-03,2025,2,Charlotte Hornets,Golden State Warriors,30,9,101,119,,STATUS_FINAL,Golden State Warriors,0,-18
+401705442,2025-03-03,2025,2,Philadelphia 76ers,Portland Trail Blazers,20,22,102,119,,STATUS_FINAL,Portland Trail Blazers,0,-17
+401705443,2025-03-03,2025,2,Miami Heat,Washington Wizards,14,27,106,90,,STATUS_FINAL,Miami Heat,1,16
+401705444,2025-03-03,2025,2,Memphis Grizzlies,Atlanta Hawks,29,1,130,132,,STATUS_FINAL,Atlanta Hawks,0,-2
+401705445,2025-03-03,2025,2,Oklahoma City Thunder,Houston Rockets,25,10,137,128,,STATUS_FINAL,Oklahoma City Thunder,1,9
+401705446,2025-03-03,2025,2,Dallas Mavericks,Sacramento Kings,6,23,98,122,,STATUS_FINAL,Sacramento Kings,0,-24
+401705447,2025-03-03,2025,2,Utah Jazz,Detroit Pistons,26,8,106,134,,STATUS_FINAL,Detroit Pistons,0,-28
+401705448,2025-03-04,2025,2,Indiana Pacers,Houston Rockets,11,10,115,102,,STATUS_FINAL,Indiana Pacers,1,13
+401705449,2025-03-04,2025,2,Orlando Magic,Toronto Raptors,19,28,113,114,,STATUS_FINAL,Toronto Raptors,0,-1
+401705450,2025-03-04,2025,2,Atlanta Hawks,Milwaukee Bucks,1,15,121,127,,STATUS_FINAL,Milwaukee Bucks,0,-6
+401705451,2025-03-04,2025,2,New York Knicks,Golden State Warriors,18,9,102,114,,STATUS_FINAL,Golden State Warriors,0,-12
+401705452,2025-03-04,2025,2,Chicago Bulls,Cleveland Cavaliers,4,5,117,139,,STATUS_FINAL,Cleveland Cavaliers,0,-22
+401705453,2025-03-04,2025,2,Minnesota Timberwolves,Philadelphia 76ers,16,20,126,112,,STATUS_FINAL,Minnesota Timberwolves,1,14
+401705454,2025-03-04,2025,2,San Antonio Spurs,Brooklyn Nets,24,17,127,113,,STATUS_FINAL,San Antonio Spurs,1,14
+401705455,2025-03-04,2025,2,Phoenix Suns,LA Clippers,21,12,119,117,,STATUS_FINAL,Phoenix Suns,1,2
+401705456,2025-03-04,2025,2,Los Angeles Lakers,New Orleans Pelicans,13,3,136,115,,STATUS_FINAL,Los Angeles Lakers,1,21
+401705457,2025-03-05,2025,2,Boston Celtics,Portland Trail Blazers,2,22,128,118,,STATUS_FINAL,Boston Celtics,1,10
+401705458,2025-03-05,2025,2,Charlotte Hornets,Minnesota Timberwolves,30,16,110,125,,STATUS_FINAL,Minnesota Timberwolves,0,-15
+401705459,2025-03-05,2025,2,Cleveland Cavaliers,Miami Heat,5,14,112,107,,STATUS_FINAL,Cleveland Cavaliers,1,5
+401705460,2025-03-05,2025,2,Washington Wizards,Utah Jazz,27,26,125,122,,STATUS_FINAL,Washington Wizards,1,3
+401705461,2025-03-05,2025,2,Memphis Grizzlies,Oklahoma City Thunder,29,25,103,120,,STATUS_FINAL,Oklahoma City Thunder,0,-17
+401705462,2025-03-05,2025,2,Denver Nuggets,Sacramento Kings,7,23,116,110,,STATUS_FINAL,Denver Nuggets,1,6
+401705463,2025-03-05,2025,2,Milwaukee Bucks,Dallas Mavericks,15,6,137,107,,STATUS_FINAL,Milwaukee Bucks,1,30
+401705464,2025-03-05,2025,2,LA Clippers,Detroit Pistons,12,8,123,115,,STATUS_FINAL,LA Clippers,1,8
+401705465,2025-03-06,2025,2,Atlanta Hawks,Indiana Pacers,1,11,124,118,,STATUS_FINAL,Atlanta Hawks,1,6
+401705466,2025-03-06,2025,2,Boston Celtics,Philadelphia 76ers,2,20,123,105,,STATUS_FINAL,Boston Celtics,1,18
+401705467,2025-03-06,2025,2,Brooklyn Nets,Golden State Warriors,17,9,119,121,,STATUS_FINAL,Golden State Warriors,0,-2
+401705468,2025-03-06,2025,2,New Orleans Pelicans,Houston Rockets,3,10,97,109,,STATUS_FINAL,Houston Rockets,0,-12
+401705469,2025-03-06,2025,2,Los Angeles Lakers,New York Knicks,13,18,113,109,,STATUS_FINAL,Los Angeles Lakers,1,4
+401705510,2025-03-06,2025,2,Orlando Magic,Chicago Bulls,19,4,123,125,,STATUS_FINAL,Chicago Bulls,0,-2
+401705470,2025-03-07,2025,2,Charlotte Hornets,Cleveland Cavaliers,30,5,117,118,,STATUS_FINAL,Cleveland Cavaliers,0,-1
+401705471,2025-03-07,2025,2,Toronto Raptors,Utah Jazz,28,26,118,109,,STATUS_FINAL,Toronto Raptors,1,9
+401705472,2025-03-07,2025,2,Dallas Mavericks,Memphis Grizzlies,6,29,111,122,,STATUS_FINAL,Memphis Grizzlies,0,-11
+401705473,2025-03-07,2025,2,Miami Heat,Minnesota Timberwolves,14,16,104,106,,STATUS_FINAL,Minnesota Timberwolves,0,-2
+401705474,2025-03-07,2025,2,Oklahoma City Thunder,Portland Trail Blazers,25,22,107,89,,STATUS_FINAL,Oklahoma City Thunder,1,18
+401705475,2025-03-07,2025,2,Denver Nuggets,Phoenix Suns,7,21,149,141,,STATUS_FINAL,Denver Nuggets,1,8
+401705476,2025-03-07,2025,2,Sacramento Kings,San Antonio Spurs,23,24,127,109,,STATUS_FINAL,Sacramento Kings,1,18
+401705477,2025-03-07,2025,2,LA Clippers,New York Knicks,12,18,105,95,,STATUS_FINAL,LA Clippers,1,10
+401705478,2025-03-08,2025,2,Charlotte Hornets,Brooklyn Nets,30,17,105,102,,STATUS_FINAL,Charlotte Hornets,1,3
+401705479,2025-03-08,2025,2,Houston Rockets,New Orleans Pelicans,10,3,146,117,,STATUS_FINAL,Houston Rockets,1,29
+401705480,2025-03-08,2025,2,Atlanta Hawks,Indiana Pacers,1,11,120,118,,STATUS_FINAL,Atlanta Hawks,1,2
+401705481,2025-03-08,2025,2,Toronto Raptors,Washington Wizards,28,27,117,118,,STATUS_FINAL,Washington Wizards,0,-1
+401705482,2025-03-08,2025,2,Miami Heat,Chicago Bulls,14,4,109,114,,STATUS_FINAL,Chicago Bulls,0,-5
+401705483,2025-03-08,2025,2,Milwaukee Bucks,Orlando Magic,15,19,109,111,,STATUS_FINAL,Orlando Magic,0,-2
+401705484,2025-03-08,2025,2,Boston Celtics,Los Angeles Lakers,2,13,111,101,,STATUS_FINAL,Boston Celtics,1,10
+401705485,2025-03-08,2025,2,Golden State Warriors,Detroit Pistons,9,8,115,110,,STATUS_FINAL,Golden State Warriors,1,5
+401705486,2025-03-09,2025,2,Oklahoma City Thunder,Denver Nuggets,25,7,127,103,,STATUS_FINAL,Oklahoma City Thunder,1,24
+401705487,2025-03-09,2025,2,Dallas Mavericks,Phoenix Suns,6,21,116,125,,STATUS_FINAL,Phoenix Suns,0,-9
+401705488,2025-03-09,2025,2,Milwaukee Bucks,Cleveland Cavaliers,15,5,100,112,,STATUS_FINAL,Cleveland Cavaliers,0,-12
+401705489,2025-03-09,2025,2,New Orleans Pelicans,Memphis Grizzlies,3,29,104,107,,STATUS_FINAL,Memphis Grizzlies,0,-3
+401705490,2025-03-09,2025,2,Philadelphia 76ers,Utah Jazz,20,26,126,122,,STATUS_FINAL,Philadelphia 76ers,1,4
+401705491,2025-03-09,2025,2,Minnesota Timberwolves,San Antonio Spurs,16,24,141,124,,STATUS_FINAL,Minnesota Timberwolves,1,17
+401705492,2025-03-09,2025,2,Portland Trail Blazers,Detroit Pistons,22,8,112,119,,STATUS_FINAL,Detroit Pistons,0,-7
+401705493,2025-03-09,2025,2,LA Clippers,Sacramento Kings,12,23,111,110,,STATUS_FINAL,LA Clippers,1,1
+401705494,2025-03-10,2025,2,Atlanta Hawks,Philadelphia 76ers,1,20,132,123,,STATUS_FINAL,Atlanta Hawks,1,9
+401705495,2025-03-10,2025,2,Boston Celtics,Utah Jazz,2,26,114,108,,STATUS_FINAL,Boston Celtics,1,6
+401705496,2025-03-10,2025,2,Brooklyn Nets,Los Angeles Lakers,17,13,111,108,,STATUS_FINAL,Brooklyn Nets,1,3
+401705497,2025-03-10,2025,2,Miami Heat,Charlotte Hornets,14,30,102,105,,STATUS_FINAL,Charlotte Hornets,0,-3
+401705498,2025-03-10,2025,2,Toronto Raptors,Washington Wizards,28,27,119,104,,STATUS_FINAL,Toronto Raptors,1,15
+401705499,2025-03-10,2025,2,Chicago Bulls,Indiana Pacers,4,11,121,103,,STATUS_FINAL,Chicago Bulls,1,18
+401705500,2025-03-10,2025,2,Houston Rockets,Orlando Magic,10,19,97,84,,STATUS_FINAL,Houston Rockets,1,13
+401705501,2025-03-10,2025,2,Memphis Grizzlies,Phoenix Suns,29,21,120,118,,STATUS_FINAL,Memphis Grizzlies,1,2
+401705502,2025-03-10,2025,2,Oklahoma City Thunder,Denver Nuggets,25,7,127,140,,STATUS_FINAL,Denver Nuggets,0,-13
+401705503,2025-03-10,2025,2,San Antonio Spurs,Dallas Mavericks,24,6,129,133,,STATUS_FINAL,Dallas Mavericks,0,-4
+401705504,2025-03-10,2025,2,Golden State Warriors,Portland Trail Blazers,9,22,130,120,,STATUS_FINAL,Golden State Warriors,1,10
+401705505,2025-03-10,2025,2,Sacramento Kings,New York Knicks,23,18,104,133,,STATUS_FINAL,New York Knicks,0,-29
+401705506,2025-03-11,2025,2,Cleveland Cavaliers,Brooklyn Nets,5,17,109,104,,STATUS_FINAL,Cleveland Cavaliers,1,5
+401705507,2025-03-11,2025,2,Detroit Pistons,Washington Wizards,8,27,123,103,,STATUS_FINAL,Detroit Pistons,1,20
+401705508,2025-03-11,2025,2,Indiana Pacers,Milwaukee Bucks,11,15,115,114,,STATUS_FINAL,Indiana Pacers,1,1
+401705509,2025-03-11,2025,2,New Orleans Pelicans,LA Clippers,3,12,127,120,,STATUS_FINAL,New Orleans Pelicans,1,7
+401705511,2025-03-12,2025,2,Atlanta Hawks,Charlotte Hornets,1,30,123,110,,STATUS_FINAL,Atlanta Hawks,1,13
+401705512,2025-03-12,2025,2,Boston Celtics,Oklahoma City Thunder,2,25,112,118,,STATUS_FINAL,Oklahoma City Thunder,0,-6
+401705513,2025-03-12,2025,2,Toronto Raptors,Philadelphia 76ers,28,20,118,105,,STATUS_FINAL,Toronto Raptors,1,13
+401705514,2025-03-12,2025,2,Miami Heat,LA Clippers,14,12,104,119,,STATUS_FINAL,LA Clippers,0,-15
+401705515,2025-03-12,2025,2,Houston Rockets,Phoenix Suns,10,21,111,104,,STATUS_FINAL,Houston Rockets,1,7
+401705516,2025-03-12,2025,2,Memphis Grizzlies,Utah Jazz,29,26,122,115,,STATUS_FINAL,Memphis Grizzlies,1,7
+401705517,2025-03-12,2025,2,San Antonio Spurs,Dallas Mavericks,24,6,126,116,,STATUS_FINAL,San Antonio Spurs,1,10
+401705518,2025-03-12,2025,2,Denver Nuggets,Minnesota Timberwolves,7,16,95,115,,STATUS_FINAL,Minnesota Timberwolves,0,-20
+401705519,2025-03-12,2025,2,Portland Trail Blazers,New York Knicks,22,18,113,114,,STATUS_FINAL,New York Knicks,0,-1
+401705520,2025-03-13,2025,2,Detroit Pistons,Washington Wizards,8,27,125,129,,STATUS_FINAL,Washington Wizards,0,-4
+401705521,2025-03-13,2025,2,Milwaukee Bucks,Los Angeles Lakers,15,13,126,106,,STATUS_FINAL,Milwaukee Bucks,1,20
+401705522,2025-03-13,2025,2,Chicago Bulls,Brooklyn Nets,4,17,116,110,,STATUS_FINAL,Chicago Bulls,1,6
+401705523,2025-03-13,2025,2,Golden State Warriors,Sacramento Kings,9,23,130,104,,STATUS_FINAL,Golden State Warriors,1,26
+401705707,2025-03-13,2025,2,New Orleans Pelicans,Orlando Magic,3,19,93,113,,STATUS_FINAL,Orlando Magic,0,-20
+401705524,2025-03-14,2025,2,Miami Heat,Boston Celtics,14,2,91,103,,STATUS_FINAL,Boston Celtics,0,-12
+401705525,2025-03-14,2025,2,Philadelphia 76ers,Indiana Pacers,20,11,100,112,,STATUS_FINAL,Indiana Pacers,0,-12
+401705526,2025-03-14,2025,2,Atlanta Hawks,LA Clippers,1,12,98,121,,STATUS_FINAL,LA Clippers,0,-23
+401705527,2025-03-14,2025,2,Houston Rockets,Dallas Mavericks,10,6,133,96,,STATUS_FINAL,Houston Rockets,1,37
+401705528,2025-03-14,2025,2,Memphis Grizzlies,Cleveland Cavaliers,29,5,124,133,,STATUS_FINAL,Cleveland Cavaliers,0,-9
+401705529,2025-03-14,2025,2,Minnesota Timberwolves,Orlando Magic,16,19,118,111,,STATUS_FINAL,Minnesota Timberwolves,1,7
+401705530,2025-03-14,2025,2,San Antonio Spurs,Charlotte Hornets,24,30,134,145,,STATUS_FINAL,Charlotte Hornets,0,-11
+401705531,2025-03-14,2025,2,Denver Nuggets,Los Angeles Lakers,7,13,131,126,,STATUS_FINAL,Denver Nuggets,1,5
+401705532,2025-03-14,2025,2,Utah Jazz,Toronto Raptors,26,28,118,126,,STATUS_FINAL,Toronto Raptors,0,-8
+401705533,2025-03-14,2025,2,Phoenix Suns,Sacramento Kings,21,23,122,106,,STATUS_FINAL,Phoenix Suns,1,16
+401705534,2025-03-15,2025,2,Brooklyn Nets,Boston Celtics,17,2,113,115,,STATUS_FINAL,Boston Celtics,0,-2
+401705535,2025-03-15,2025,2,Detroit Pistons,Oklahoma City Thunder,8,25,107,113,,STATUS_FINAL,Oklahoma City Thunder,0,-6
+401705536,2025-03-15,2025,2,Houston Rockets,Chicago Bulls,10,4,117,114,,STATUS_FINAL,Houston Rockets,1,3
+401705537,2025-03-15,2025,2,Memphis Grizzlies,Miami Heat,29,14,125,91,,STATUS_FINAL,Memphis Grizzlies,1,34
+401705538,2025-03-15,2025,2,Milwaukee Bucks,Indiana Pacers,15,11,126,119,,STATUS_FINAL,Milwaukee Bucks,1,7
+401705539,2025-03-15,2025,2,San Antonio Spurs,New Orleans Pelicans,24,3,119,115,,STATUS_FINAL,San Antonio Spurs,1,4
+401705540,2025-03-15,2025,2,Golden State Warriors,New York Knicks,9,18,97,94,,STATUS_FINAL,Golden State Warriors,1,3
+401705541,2025-03-15,2025,2,Denver Nuggets,Washington Wizards,7,27,123,126,,STATUS_FINAL,Washington Wizards,0,-3
+401705542,2025-03-16,2025,2,Dallas Mavericks,Philadelphia 76ers,6,20,125,130,,STATUS_FINAL,Philadelphia 76ers,0,-5
+401705543,2025-03-16,2025,2,Los Angeles Lakers,Phoenix Suns,13,21,107,96,,STATUS_FINAL,Los Angeles Lakers,1,11
+401705544,2025-03-16,2025,2,Brooklyn Nets,Atlanta Hawks,17,1,122,114,,STATUS_FINAL,Brooklyn Nets,1,8
+401705545,2025-03-16,2025,2,Cleveland Cavaliers,Orlando Magic,5,19,103,108,,STATUS_FINAL,Orlando Magic,0,-5
+401705546,2025-03-16,2025,2,Portland Trail Blazers,Toronto Raptors,22,28,105,102,,STATUS_FINAL,Portland Trail Blazers,1,3
+401705547,2025-03-16,2025,2,Minnesota Timberwolves,Utah Jazz,16,26,128,102,,STATUS_FINAL,Minnesota Timberwolves,1,26
+401705548,2025-03-16,2025,2,Milwaukee Bucks,Oklahoma City Thunder,15,25,105,121,,STATUS_FINAL,Oklahoma City Thunder,0,-16
+401748706,2025-03-16,2025,2,LA Clippers,Charlotte Hornets,12,30,123,88,,STATUS_FINAL,LA Clippers,1,35
+401705550,2025-03-17,2025,2,New York Knicks,Miami Heat,18,14,116,95,,STATUS_FINAL,New York Knicks,1,21
+401705551,2025-03-17,2025,2,Houston Rockets,Philadelphia 76ers,10,20,144,137,,STATUS_FINAL,Houston Rockets,1,7
+401705552,2025-03-17,2025,2,Minnesota Timberwolves,Indiana Pacers,16,11,130,132,,STATUS_FINAL,Indiana Pacers,0,-2
+401705553,2025-03-17,2025,2,New Orleans Pelicans,Detroit Pistons,3,8,81,127,,STATUS_FINAL,Detroit Pistons,0,-46
+401705555,2025-03-17,2025,2,Utah Jazz,Chicago Bulls,26,4,97,111,,STATUS_FINAL,Chicago Bulls,0,-14
+401705556,2025-03-17,2025,2,Golden State Warriors,Denver Nuggets,9,7,105,114,,STATUS_FINAL,Denver Nuggets,0,-9
+401705557,2025-03-17,2025,2,Phoenix Suns,Toronto Raptors,21,28,129,89,,STATUS_FINAL,Phoenix Suns,1,40
+401705558,2025-03-17,2025,2,Sacramento Kings,Memphis Grizzlies,23,29,132,122,,STATUS_FINAL,Sacramento Kings,1,10
+401705561,2025-03-17,2025,2,Portland Trail Blazers,Washington Wizards,22,27,112,97,,STATUS_FINAL,Portland Trail Blazers,1,15
+401754705,2025-03-17,2025,2,Los Angeles Lakers,San Antonio Spurs,13,24,125,109,,STATUS_FINAL,Los Angeles Lakers,1,16
+401705559,2025-03-18,2025,2,Charlotte Hornets,Atlanta Hawks,30,1,102,134,,STATUS_FINAL,Atlanta Hawks,0,-32
+401705560,2025-03-18,2025,2,Boston Celtics,Brooklyn Nets,2,17,104,96,,STATUS_FINAL,Boston Celtics,1,8
+401705563,2025-03-18,2025,2,LA Clippers,Cleveland Cavaliers,12,5,132,119,,STATUS_FINAL,LA Clippers,1,13
+401705578,2025-03-18,2025,2,Golden State Warriors,Milwaukee Bucks,9,15,104,93,,STATUS_FINAL,Golden State Warriors,1,11
+401705193,2025-03-19,2025,2,Utah Jazz,Washington Wizards,26,27,128,112,,STATUS_FINAL,Utah Jazz,1,16
+401705564,2025-03-19,2025,2,Indiana Pacers,Dallas Mavericks,11,6,135,131,,STATUS_FINAL,Indiana Pacers,1,4
+401705565,2025-03-19,2025,2,Orlando Magic,Houston Rockets,19,10,108,116,,STATUS_FINAL,Houston Rockets,0,-8
+401705566,2025-03-19,2025,2,Miami Heat,Detroit Pistons,14,8,113,116,,STATUS_FINAL,Detroit Pistons,0,-3
+401705567,2025-03-19,2025,2,Minnesota Timberwolves,New Orleans Pelicans,16,3,115,119,,STATUS_FINAL,New Orleans Pelicans,0,-4
+401705568,2025-03-19,2025,2,Oklahoma City Thunder,Philadelphia 76ers,25,20,133,100,,STATUS_FINAL,Oklahoma City Thunder,1,33
+401705569,2025-03-19,2025,2,San Antonio Spurs,New York Knicks,24,18,120,105,,STATUS_FINAL,San Antonio Spurs,1,15
+401705572,2025-03-19,2025,2,Los Angeles Lakers,Denver Nuggets,13,7,120,108,,STATUS_FINAL,Los Angeles Lakers,1,12
+401705573,2025-03-19,2025,2,Phoenix Suns,Chicago Bulls,21,4,127,121,,STATUS_FINAL,Phoenix Suns,1,6
+401705574,2025-03-19,2025,2,Portland Trail Blazers,Memphis Grizzlies,22,29,115,99,,STATUS_FINAL,Portland Trail Blazers,1,16
+401705575,2025-03-19,2025,2,Sacramento Kings,Cleveland Cavaliers,23,5,123,119,,STATUS_FINAL,Sacramento Kings,1,4
+401705562,2025-03-20,2025,2,Los Angeles Lakers,Milwaukee Bucks,13,15,89,118,,STATUS_FINAL,Milwaukee Bucks,0,-29
+401705571,2025-03-20,2025,2,Golden State Warriors,Toronto Raptors,9,28,117,114,,STATUS_FINAL,Golden State Warriors,1,3
+401705576,2025-03-20,2025,2,Charlotte Hornets,New York Knicks,30,18,115,98,,STATUS_FINAL,Charlotte Hornets,1,17
+401705577,2025-03-20,2025,2,Indiana Pacers,Brooklyn Nets,11,17,105,99,,STATUS_FINAL,Indiana Pacers,1,6
+401705579,2025-03-20,2025,2,Sacramento Kings,Chicago Bulls,23,4,116,128,,STATUS_FINAL,Chicago Bulls,0,-12
+401705580,2025-03-21,2025,2,Washington Wizards,Orlando Magic,27,19,105,120,,STATUS_FINAL,Orlando Magic,0,-15
+401705581,2025-03-21,2025,2,Miami Heat,Houston Rockets,14,10,98,102,,STATUS_FINAL,Houston Rockets,0,-4
+401705582,2025-03-21,2025,2,Minnesota Timberwolves,New Orleans Pelicans,16,3,134,93,,STATUS_FINAL,Minnesota Timberwolves,1,41
+401705583,2025-03-21,2025,2,Oklahoma City Thunder,Charlotte Hornets,25,30,141,106,,STATUS_FINAL,Oklahoma City Thunder,1,35
+401705584,2025-03-21,2025,2,San Antonio Spurs,Philadelphia 76ers,24,20,128,120,,STATUS_FINAL,San Antonio Spurs,1,8
+401705585,2025-03-21,2025,2,Dallas Mavericks,Detroit Pistons,6,8,123,117,,STATUS_FINAL,Dallas Mavericks,1,6
+401705586,2025-03-21,2025,2,Utah Jazz,Boston Celtics,26,2,99,121,,STATUS_FINAL,Boston Celtics,0,-22
+401705587,2025-03-21,2025,2,Phoenix Suns,Cleveland Cavaliers,21,5,123,112,,STATUS_FINAL,Phoenix Suns,1,11
+401705588,2025-03-21,2025,2,Portland Trail Blazers,Denver Nuggets,22,7,128,109,,STATUS_FINAL,Portland Trail Blazers,1,19
+401705589,2025-03-21,2025,2,LA Clippers,Memphis Grizzlies,12,29,128,108,,STATUS_FINAL,LA Clippers,1,20
+401705590,2025-03-22,2025,2,Indiana Pacers,Brooklyn Nets,11,17,108,103,,STATUS_FINAL,Indiana Pacers,1,5
+401705591,2025-03-22,2025,2,Atlanta Hawks,Golden State Warriors,1,9,124,115,,STATUS_FINAL,Atlanta Hawks,1,9
+401705592,2025-03-22,2025,2,New York Knicks,Washington Wizards,18,27,122,103,,STATUS_FINAL,New York Knicks,1,19
+401705593,2025-03-22,2025,2,Sacramento Kings,Milwaukee Bucks,23,15,108,114,,STATUS_FINAL,Milwaukee Bucks,0,-6
+401705594,2025-03-22,2025,2,Los Angeles Lakers,Chicago Bulls,13,4,115,146,,STATUS_FINAL,Chicago Bulls,0,-31
+401705625,2025-03-27,2025,2,Cleveland Cavaliers,San Antonio Spurs,5,24,124,116,,STATUS_FINAL,Cleveland Cavaliers,1,8
+401705626,2025-03-27,2025,2,Orlando Magic,Dallas Mavericks,19,6,92,101,,STATUS_FINAL,Dallas Mavericks,0,-9
+401705627,2025-03-27,2025,2,Washington Wizards,Indiana Pacers,27,11,109,162,,STATUS_FINAL,Indiana Pacers,0,-53
+401705628,2025-03-27,2025,2,Miami Heat,Atlanta Hawks,14,1,122,112,,STATUS_FINAL,Miami Heat,1,10
+401705629,2025-03-27,2025,2,Chicago Bulls,Los Angeles Lakers,4,13,119,117,,STATUS_FINAL,Chicago Bulls,1,2
+401705630,2025-03-27,2025,2,Oklahoma City Thunder,Memphis Grizzlies,25,29,125,104,,STATUS_FINAL,Oklahoma City Thunder,1,21
+401705631,2025-03-27,2025,2,Utah Jazz,Houston Rockets,26,10,110,121,,STATUS_FINAL,Houston Rockets,0,-11
+401705632,2025-03-27,2025,2,Sacramento Kings,Portland Trail Blazers,23,22,128,107,,STATUS_FINAL,Sacramento Kings,1,21
+401705640,2025-03-29,2025,2,Orlando Magic,Sacramento Kings,19,23,121,91,,STATUS_FINAL,Orlando Magic,1,30
+401705641,2025-03-29,2025,2,Washington Wizards,Brooklyn Nets,27,17,112,115,,STATUS_FINAL,Brooklyn Nets,0,-3
+401705642,2025-03-29,2025,2,Philadelphia 76ers,Miami Heat,20,14,95,118,,STATUS_FINAL,Miami Heat,0,-23
+401705643,2025-03-29,2025,2,Chicago Bulls,Dallas Mavericks,4,6,119,120,,STATUS_FINAL,Dallas Mavericks,0,-1
+401705644,2025-03-29,2025,2,Memphis Grizzlies,Los Angeles Lakers,29,13,127,134,,STATUS_FINAL,Los Angeles Lakers,0,-7
+401705645,2025-03-29,2025,2,Oklahoma City Thunder,Indiana Pacers,25,11,132,111,,STATUS_FINAL,Oklahoma City Thunder,1,21
+401705646,2025-03-29,2025,2,San Antonio Spurs,Boston Celtics,24,2,111,121,,STATUS_FINAL,Boston Celtics,0,-10
+401705554,2025-04-01,2025,2,San Antonio Spurs,Orlando Magic,24,19,105,116,,STATUS_FINAL,Orlando Magic,0,-11
+401705663,2025-04-01,2025,2,Atlanta Hawks,Portland Trail Blazers,1,22,113,127,,STATUS_FINAL,Portland Trail Blazers,0,-14
+401705664,2025-04-01,2025,2,New York Knicks,Philadelphia 76ers,18,20,105,91,,STATUS_FINAL,New York Knicks,1,14
+401705665,2025-04-01,2025,2,Chicago Bulls,Toronto Raptors,4,28,137,118,,STATUS_FINAL,Chicago Bulls,1,19
+401705666,2025-04-01,2025,2,Memphis Grizzlies,Golden State Warriors,29,9,125,134,,STATUS_FINAL,Golden State Warriors,0,-9
+401705667,2025-04-01,2025,2,Milwaukee Bucks,Phoenix Suns,15,21,133,123,,STATUS_FINAL,Milwaukee Bucks,1,10
+401705668,2025-04-01,2025,2,Denver Nuggets,Minnesota Timberwolves,7,16,139,140,,STATUS_FINAL,Minnesota Timberwolves,0,-1
+401705699,2025-04-06,2025,2,Charlotte Hornets,Chicago Bulls,30,4,117,131,,STATUS_FINAL,Chicago Bulls,0,-14
+401705700,2025-04-06,2025,2,Brooklyn Nets,Toronto Raptors,17,28,109,120,,STATUS_FINAL,Toronto Raptors,0,-11
+401705701,2025-04-06,2025,2,Oklahoma City Thunder,Los Angeles Lakers,25,13,99,126,,STATUS_FINAL,Los Angeles Lakers,0,-27
+401705702,2025-04-06,2025,2,Atlanta Hawks,Utah Jazz,1,26,147,134,,STATUS_FINAL,Atlanta Hawks,1,13
+401705703,2025-04-06,2025,2,Boston Celtics,Washington Wizards,2,27,124,90,,STATUS_FINAL,Boston Celtics,1,34
+401705704,2025-04-06,2025,2,Cleveland Cavaliers,Sacramento Kings,5,23,113,120,,STATUS_FINAL,Sacramento Kings,0,-7
+401705705,2025-04-06,2025,2,Portland Trail Blazers,San Antonio Spurs,22,24,120,109,,STATUS_FINAL,Portland Trail Blazers,1,11
+401705706,2025-04-06,2025,2,New York Knicks,Phoenix Suns,18,21,112,98,,STATUS_FINAL,New York Knicks,1,14
+401705708,2025-04-06,2025,2,Denver Nuggets,Indiana Pacers,7,11,120,125,,STATUS_FINAL,Indiana Pacers,0,-5
+401705709,2025-04-06,2025,2,Golden State Warriors,Houston Rockets,9,10,96,106,,STATUS_FINAL,Houston Rockets,0,-10
+401754706,2025-04-06,2025,2,New Orleans Pelicans,Milwaukee Bucks,3,15,107,111,,STATUS_FINAL,Milwaukee Bucks,0,-4
+401705710,2025-04-07,2025,2,Detroit Pistons,Sacramento Kings,8,23,117,127,,STATUS_FINAL,Sacramento Kings,0,-10
+401705711,2025-04-07,2025,2,Miami Heat,Philadelphia 76ers,14,20,117,105,,STATUS_FINAL,Miami Heat,1,12
+401705712,2025-04-08,2025,2,Charlotte Hornets,Memphis Grizzlies,30,29,100,124,,STATUS_FINAL,Memphis Grizzlies,0,-24
+401705713,2025-04-08,2025,2,Cleveland Cavaliers,Chicago Bulls,5,4,135,113,,STATUS_FINAL,Cleveland Cavaliers,1,22
+401705714,2025-04-08,2025,2,Indiana Pacers,Washington Wizards,11,27,104,98,,STATUS_FINAL,Indiana Pacers,1,6
+401705715,2025-04-08,2025,2,Orlando Magic,Atlanta Hawks,19,1,119,112,,STATUS_FINAL,Orlando Magic,1,7
+401705716,2025-04-08,2025,2,Brooklyn Nets,New Orleans Pelicans,17,3,119,114,,STATUS_FINAL,Brooklyn Nets,1,5
+401705717,2025-04-08,2025,2,New York Knicks,Boston Celtics,18,2,117,119,,STATUS_FINAL,Boston Celtics,0,-2
+401705718,2025-04-08,2025,2,Milwaukee Bucks,Minnesota Timberwolves,15,16,110,103,,STATUS_FINAL,Milwaukee Bucks,1,7
+401705719,2025-04-08,2025,2,Oklahoma City Thunder,Los Angeles Lakers,25,13,136,120,,STATUS_FINAL,Oklahoma City Thunder,1,16
+401705720,2025-04-08,2025,2,Phoenix Suns,Golden State Warriors,21,9,95,133,,STATUS_FINAL,Golden State Warriors,0,-38
+401705721,2025-04-08,2025,2,LA Clippers,San Antonio Spurs,12,24,122,117,,STATUS_FINAL,LA Clippers,1,5
+401705737,2025-04-11,2025,2,Detroit Pistons,Milwaukee Bucks,8,15,119,125,,STATUS_FINAL,Milwaukee Bucks,0,-6
+401705738,2025-04-11,2025,2,Indiana Pacers,Orlando Magic,11,19,115,129,,STATUS_FINAL,Orlando Magic,0,-14
+401705739,2025-04-11,2025,2,Philadelphia 76ers,Atlanta Hawks,20,1,110,124,,STATUS_FINAL,Atlanta Hawks,0,-14
+401705740,2025-04-11,2025,2,Boston Celtics,Charlotte Hornets,2,30,130,94,,STATUS_FINAL,Boston Celtics,1,36
+401705741,2025-04-11,2025,2,New York Knicks,Cleveland Cavaliers,18,5,102,108,,STATUS_FINAL,Cleveland Cavaliers,0,-6
+401705742,2025-04-11,2025,2,Chicago Bulls,Washington Wizards,4,27,119,89,,STATUS_FINAL,Chicago Bulls,1,30
+401705743,2025-04-11,2025,2,New Orleans Pelicans,Miami Heat,3,14,104,153,,STATUS_FINAL,Miami Heat,0,-49
+401705744,2025-04-11,2025,2,Dallas Mavericks,Toronto Raptors,6,28,124,102,,STATUS_FINAL,Dallas Mavericks,1,22
+401705745,2025-04-11,2025,2,Minnesota Timberwolves,Brooklyn Nets,16,17,117,91,,STATUS_FINAL,Minnesota Timberwolves,1,26
+401705746,2025-04-11,2025,2,Denver Nuggets,Memphis Grizzlies,7,29,117,109,,STATUS_FINAL,Denver Nuggets,1,8
+401705747,2025-04-11,2025,2,Utah Jazz,Oklahoma City Thunder,26,25,111,145,,STATUS_FINAL,Oklahoma City Thunder,0,-34
+401705748,2025-04-11,2025,2,Phoenix Suns,San Antonio Spurs,21,24,117,98,,STATUS_FINAL,Phoenix Suns,1,19
+401705749,2025-04-11,2025,2,Portland Trail Blazers,Golden State Warriors,22,9,86,103,,STATUS_FINAL,Golden State Warriors,0,-17
+401705750,2025-04-11,2025,2,Sacramento Kings,LA Clippers,23,12,100,101,,STATUS_FINAL,LA Clippers,0,-1
+401705751,2025-04-11,2025,2,Los Angeles Lakers,Houston Rockets,13,10,140,109,,STATUS_FINAL,Los Angeles Lakers,1,31

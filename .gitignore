@@ -1,0 +1,4 @@
+data/raw/nba_pbp_2025.csv
+data/processed/clean_nba_pbp_2025.csv
+data/raw/*.csv
+data/processed/clean_*.csv
